@@ -23,14 +23,14 @@ import C19CollectDataWriteIndexCsv as wcs
 # Constants
 # ----------------------------------------------------------------------------
 
-CSV_DIRECTORY    = '/Users/paulhart/Documents/Development/BC-Covid-19-Data/CSV_Files'
+CSV_DIRECTORY    = '/Users/paulhart/GitHubWork/BC-Covid-19-Data/CSV_Files'
 
-CONFIRMED_GLOBAL = '/Users/paulhart/Documents/Development/BC-Covid-19-Data/COVID-19/csse_covid_19_data/csse_covid_19_time_series/time_series_covid19_confirmed_global.csv'
-CONFIRMED_US     = '/Users/paulhart/Documents/Development/BC-Covid-19-Data/COVID-19/csse_covid_19_data/csse_covid_19_time_series/time_series_covid19_confirmed_US.csv'
-DEATHS_GLOBAL    = '/Users/paulhart/Documents/Development/BC-Covid-19-Data/COVID-19/csse_covid_19_data/csse_covid_19_time_series/time_series_covid19_deaths_global.csv'
-DEATHS_US        = '/Users/paulhart/Documents/Development/BC-Covid-19-Data/COVID-19/csse_covid_19_data/csse_covid_19_time_series/time_series_covid19_deaths_US.csv'
+CONFIRMED_GLOBAL = '/Users/paulhart/GitHubWork/BC-Covid-19-Data/COVID-19/csse_covid_19_data/csse_covid_19_time_series/time_series_covid19_confirmed_global.csv'
+CONFIRMED_US     = '/Users/paulhart/GitHubWork/BC-Covid-19-Data/COVID-19/csse_covid_19_data/csse_covid_19_time_series/time_series_covid19_confirmed_US.csv'
+DEATHS_GLOBAL    = '/Users/paulhart/GitHubWork/BC-Covid-19-Data/COVID-19/csse_covid_19_data/csse_covid_19_time_series/time_series_covid19_deaths_global.csv'
+DEATHS_US        = '/Users/paulhart/GitHubWork/BC-Covid-19-Data/COVID-19/csse_covid_19_data/csse_covid_19_time_series/time_series_covid19_deaths_US.csv'
 
-WORLD_POP        = '/Users/paulhart/Documents/Development/BC-Covid-19-Data/WorldPop.csv'
+WORLD_POP        = '/Users/paulhart/GitHubWork/BC-Covid-19-Data/WorldPop.csv'
 
 # ----------------------------------------------------------------------------
 # Global Variables
