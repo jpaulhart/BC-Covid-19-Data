@@ -13,12 +13,11 @@ echo -e $(date) 'Cloning data'
 git clone https://github.com/CSSEGISandData/COVID-19.git
 
 echo -e $(date) 'Creating csv data'
-/usr/local/bin/python3 /Users/paulhart/GitHubWork/BC-Covid-19-Data/App/C19CollectDataMain.py
+/usr/local/bin/python3 C19CollectDataMain.py
 echo -e  $(date) 'Creating csv data complete'
 echo 
 
 echo -e "Add files"
-cd /Users/paulhart/GitHubWork/BC-Covid-19-Data
 git add --all
 
 echo 
