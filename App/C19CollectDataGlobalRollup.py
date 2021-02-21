@@ -68,7 +68,8 @@ def processProvinceRollup(df):
             date         = np.datetime_as_string(date, unit='D')
             try:
                 #print(dfPopulations)
-                pop = dfPopulations[cd.dfPopulations['Country'] == key]
+                combined_key = ', ' + key
+                pop = dfPopulations[cd.dfPopulations['Combined_Key'] == combined_key]
                 population = pop['Population'].values[0]
             except:
                 population = 0
@@ -91,7 +92,7 @@ def processProvinceRollup(df):
         dfx['DeathsNew'] = dfx['Deaths'].diff()
         dfx['ConfirmedNewMean'] = dfx['ConfirmedNew'].rolling(7).mean()
         dfx['DeathsNewMean'] = dfx['DeathsNew'].rolling(7).mean()
-        dfx['Population'] = 0
+        #dfx['Population'] = 0
         dfx.drop(dfx.index[[0,1,2,3,4,5,6]])
         #print(dfx.head(n=10))
 
