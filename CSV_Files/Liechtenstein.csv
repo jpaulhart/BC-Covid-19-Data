@@ -398,3 +398,4 @@ Province_State,Country_Region,Lat,Long,Date,Confirmed,Deaths,Combined_Key,Popula
 ,Liechtenstein,47.14,9.55,2021-02-21,2546,54,", Liechtenstein",38128.0,1.0,0.0,1.0,0.2857142857142857
 ,Liechtenstein,47.14,9.55,2021-02-22,2550,54,", Liechtenstein",38128.0,4.0,0.0,1.4285714285714286,0.14285714285714285
 ,Liechtenstein,47.14,9.55,2021-02-23,2553,54,", Liechtenstein",38128.0,3.0,0.0,1.8571428571428572,0.14285714285714285
+,Liechtenstein,47.14,9.55,2021-02-24,2553,54,", Liechtenstein",38128.0,0.0,0.0,1.8571428571428572,0.0
