@@ -57,7 +57,7 @@ def processGlobalDataframe():
 
     # 4. Add columns 
     df['Combined_Key'] = df['Province_State']  + ', ' + df['Country_Region']
-    print(df)
+    # print(df)
 
     # df['ConfirmedNew'] = df['Confirmed'].diff()
     # df['DeathsNew'] = df['Deaths'].diff()
