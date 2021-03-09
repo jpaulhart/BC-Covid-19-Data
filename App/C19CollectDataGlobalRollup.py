@@ -89,12 +89,18 @@ def processProvinceRollup(df):
         #dfx['Long']             = lat_long[1]
         #dfx['Key']              = dfKey + ' / '
         dfx['ConfirmedNew'] = dfx['Confirmed'].diff()
-        dfx['DeathsNew'] = dfx['Deaths'].diff()
-        dfx['ConfirmedNewMean'] = dfx['ConfirmedNew'].rolling(7).mean()
-        dfx['DeathsNewMean'] = dfx['DeathsNew'].rolling(7).mean()
+        dfx['DeathsNew'] = dfx['Deaths'].diff().diff()
+        dfx['ConfirmedNewMean'] = dfx['ConfirmedNew'].rolling(7).mean().diff()
+        dfx['DeathsNewMean'] = dfx['DeathsNew'].rolling(7).mean().diff()
         #dfx['Population'] = 0
         dfx.drop(dfx.index[[0,1,2,3,4,5,6]])
-        #print(dfx.head(n=10))
+        print(dfx.info())
+        dfx = dfx.fillna(0)
+        dfx['ConfirmedNew'] = dfx['ConfirmedNew'].astype(int)
+        dfx['ConfirmedNewMean'] = dfx['ConfirmedNewMean'].astype(int)
+        dfx['DeathsNew'] = dfx['DeathsNew'].astype(int)
+        dfx['DeathsNewMean'] = dfx['DeathsNewMean'].astype(int)
+        print(dfx.tail(n=10))
 
         file_name = dfa['Country_Region'].values[0] + '.csv'
         file_name = file_name.replace(',', '')
