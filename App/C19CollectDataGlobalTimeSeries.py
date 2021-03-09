@@ -101,7 +101,6 @@ def processGlobalDataframe():
         dfa['DeathsNew'] = dfa['DeathsNew'].astype(int)
         dfa['DeathsNewMean'] = dfa['DeathsNewMean'].astype(int)
 
-
         file_name = dfa['Country_Region'].values[0] + '.csv'
         if dfa['Province_State'].values[0] == '':
             file_name = dfa['Country_Region'].values[0]
