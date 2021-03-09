@@ -86,6 +86,11 @@ def processUSDataframe():
         dfs['ConfirmedNewMean'] = dfs['ConfirmedNew'].rolling(7).mean()
         dfs['DeathsNewMean'] = dfs['DeathsNew'].rolling(7).mean()
         dfs.drop(dfs.index[[0,1,2,3,4,5,6]])
+        dfs = dfs.fillna(0)
+        dfs['ConfirmedNew'] = dfs['ConfirmedNew'].astype(int)
+        dfs['ConfirmedNewMean'] = dfs['ConfirmedNewMean'].astype(int)
+        dfs['DeathsNew'] = dfs['DeathsNew'].astype(int)
+        dfs['DeathsNewMean'] = dfs['DeathsNewMean'].astype(int)
 
         file_name = dfs['Province_State'].values[0] + '.csv'
         file_name = file_name.replace(',', '')

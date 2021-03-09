@@ -24,15 +24,26 @@ import C19CollectDataWriteIndexCsv as wcs
 # ----------------------------------------------------------------------------
 
 BASE_DIRECTORY  = '/Users/paulhart/GitHubWork/BC-Covid-19-Data/'
-
+CSV_URL         = 'https://raw.githubusercontent.com/CSSEGISandData/'
+#                  https://raw.githubusercontent.com/CSSEGISandData/
+#                                      COVID-19/master/csse_covid_19_data/csse_covid_19_time_series/time_series_covid19_confirmed_global.csv
+#                  https://raw.githubusercontent.com/CSSEGISandData/
+#                                      COVID-19/csse_covid_19_data/csse_covid_19_time_series/time_series_covid19_confirmed_global.csv
 CSV_DIRECTORY    = BASE_DIRECTORY + 'CSV_Files'
 
-CONFIRMED_GLOBAL = BASE_DIRECTORY + 'COVID-19/csse_covid_19_data/csse_covid_19_time_series/time_series_covid19_confirmed_global.csv'
-CONFIRMED_US     = BASE_DIRECTORY + 'COVID-19/csse_covid_19_data/csse_covid_19_time_series/time_series_covid19_confirmed_US.csv'
-DEATHS_GLOBAL    = BASE_DIRECTORY + 'COVID-19/csse_covid_19_data/csse_covid_19_time_series/time_series_covid19_deaths_global.csv'
-DEATHS_US        = BASE_DIRECTORY + 'COVID-19/csse_covid_19_data/csse_covid_19_time_series/time_series_covid19_deaths_US.csv'
+# CONFIRMED_GLOBAL = BASE_DIRECTORY + 'COVID-19/csse_covid_19_data/csse_covid_19_time_series/time_series_covid19_confirmed_global.csv'
+# CONFIRMED_US     = BASE_DIRECTORY + 'COVID-19/csse_covid_19_data/csse_covid_19_time_series/time_series_covid19_confirmed_US.csv'
+# DEATHS_GLOBAL    = BASE_DIRECTORY + 'COVID-19/csse_covid_19_data/csse_covid_19_time_series/time_series_covid19_deaths_global.csv'
+# DEATHS_US        = BASE_DIRECTORY + 'COVID-19/csse_covid_19_data/csse_covid_19_time_series/time_series_covid19_deaths_US.csv'
+
+CONFIRMED_GLOBAL = CSV_URL + 'COVID-19/master/csse_covid_19_data/csse_covid_19_time_series/time_series_covid19_confirmed_global.csv'
+CONFIRMED_US     = CSV_URL + 'COVID-19/master/csse_covid_19_data/csse_covid_19_time_series/time_series_covid19_confirmed_US.csv'
+DEATHS_GLOBAL    = CSV_URL + 'COVID-19/master/csse_covid_19_data/csse_covid_19_time_series/time_series_covid19_deaths_global.csv'
+DEATHS_US        = CSV_URL + 'COVID-19/master/csse_covid_19_data/csse_covid_19_time_series/time_series_covid19_deaths_US.csv'
 
 WORLD_POP        = BASE_DIRECTORY + 'WorldPop.csv'
+
+
 
 # ----------------------------------------------------------------------------
 # Global Variables

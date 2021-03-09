@@ -32,6 +32,7 @@ def processGlobalDataframe():
     logging.info('Processing Global csv files')
 
     # 1. Load confirmed dataframe
+    # https://raw.githubusercontent.com/CSSEGISandData/COVID-19/csse_covid_19_data/csse_covid_19_time_series/time_series_covid19_confirmed_global.csv
     dfConfirmed = pd.read_csv(cd.CONFIRMED_GLOBAL)
     dfConfirmed = pd.melt(dfConfirmed, id_vars=['Province/State','Country/Region','Lat','Long'], var_name="Date", value_name="Confirmed")
     dfConfirmed = dfConfirmed.replace(np.nan, '', regex=True)
@@ -94,6 +95,11 @@ def processGlobalDataframe():
         dfa['DeathsNewMean'] = dfa['DeathsNew'].rolling(7).mean()
         #dfa['Population'] = 0
         dfa.drop(dfa.index[[0,1,2,3,4,5,6]])
+        dfa = dfa.fillna(0)
+        dfa['ConfirmedNew'] = dfa['ConfirmedNew'].astype(int)
+        dfa['ConfirmedNewMean'] = dfa['ConfirmedNewMean'].astype(int)
+        dfa['DeathsNew'] = dfa['DeathsNew'].astype(int)
+        dfa['DeathsNewMean'] = dfa['DeathsNewMean'].astype(int)
 
 
         file_name = dfa['Country_Region'].values[0] + '.csv'
