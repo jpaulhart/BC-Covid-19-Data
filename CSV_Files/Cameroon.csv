@@ -412,3 +412,5 @@ Province_State,Country_Region,Lat,Long,Date,Confirmed,Deaths,Combined_Key,Popula
 ,Cameroon,3.848,11.5021,2021-03-07,35714,551,", Cameroon",26545863.0,0,0,0,0
 ,Cameroon,3.848,11.5021,2021-03-08,36794,566,", Cameroon",26545863.0,1080,15,154,2
 ,Cameroon,3.848,11.5021,2021-03-09,36794,566,", Cameroon",26545863.0,0,0,154,2
+,Cameroon,3.848,11.5021,2021-03-10,36794,566,", Cameroon",26545863.0,0,0,154,2
+,Cameroon,3.848,11.5021,2021-03-11,40622,601,", Cameroon",26545863.0,3828,35,701,7
