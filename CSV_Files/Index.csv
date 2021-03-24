@@ -1,336 +1,336 @@
-combined_key,file_name,country,province
-", Afghanistan",Afghanistan.csv,Afghanistan,
-", Albania",Albania.csv,Albania,
-", Algeria",Algeria.csv,Algeria,
-", Andorra",Andorra.csv,Andorra,
-", Angola",Angola.csv,Angola,
-", Antigua and Barbuda",Antigua and Barbuda.csv,Antigua and Barbuda,
-", Argentina",Argentina.csv,Argentina,
-", Armenia",Armenia.csv,Armenia,
-"Australian Capital Territory, Australia",Australian Capital Territory.csv,Australia,Australian Capital Territory
-"New South Wales, Australia",New South Wales.csv,Australia,New South Wales
-"Northern Territory, Australia",Northern Territory.csv,Australia,Northern Territory
-"Queensland, Australia",Queensland.csv,Australia,Queensland
-"South Australia, Australia",South Australia.csv,Australia,South Australia
-"Tasmania, Australia",Tasmania.csv,Australia,Tasmania
-"Victoria, Australia",Victoria.csv,Australia,Victoria
-"Western Australia, Australia",Western Australia.csv,Australia,Western Australia
-", Austria",Austria.csv,Austria,
-", Azerbaijan",Azerbaijan.csv,Azerbaijan,
-", Bahamas",Bahamas.csv,Bahamas,
-", Bahrain",Bahrain.csv,Bahrain,
-", Bangladesh",Bangladesh.csv,Bangladesh,
-", Barbados",Barbados.csv,Barbados,
-", Belarus",Belarus.csv,Belarus,
-", Belgium",Belgium.csv,Belgium,
-", Belize",Belize.csv,Belize,
-", Benin",Benin.csv,Benin,
-", Bhutan",Bhutan.csv,Bhutan,
-", Bolivia",Bolivia.csv,Bolivia,
-", Bosnia and Herzegovina",Bosnia and Herzegovina.csv,Bosnia and Herzegovina,
-", Botswana",Botswana.csv,Botswana,
-", Brazil",Brazil.csv,Brazil,
-", Brunei",Brunei.csv,Brunei,
-", Bulgaria",Bulgaria.csv,Bulgaria,
-", Burkina Faso",Burkina Faso.csv,Burkina Faso,
-", Burma",Burma.csv,Burma,
-", Burundi",Burundi.csv,Burundi,
-", Cabo Verde",Cabo Verde.csv,Cabo Verde,
-", Cambodia",Cambodia.csv,Cambodia,
-", Cameroon",Cameroon.csv,Cameroon,
-"Alberta, Canada",Alberta.csv,Canada,Alberta
-"British Columbia, Canada",British Columbia.csv,Canada,British Columbia
-"Diamond Princess, Canada",Diamond Princess.csv,Canada,Diamond Princess
-"Grand Princess, Canada",Grand Princess.csv,Canada,Grand Princess
-"Manitoba, Canada",Manitoba.csv,Canada,Manitoba
-"New Brunswick, Canada",New Brunswick.csv,Canada,New Brunswick
-"Newfoundland and Labrador, Canada",Newfoundland and Labrador.csv,Canada,Newfoundland and Labrador
-"Northwest Territories, Canada",Northwest Territories.csv,Canada,Northwest Territories
-"Nova Scotia, Canada",Nova Scotia.csv,Canada,Nova Scotia
-"Nunavut, Canada",Nunavut.csv,Canada,Nunavut
-"Ontario, Canada",Ontario.csv,Canada,Ontario
-"Prince Edward Island, Canada",Prince Edward Island.csv,Canada,Prince Edward Island
-"Quebec, Canada",Quebec.csv,Canada,Quebec
-"Repatriated Travellers, Canada",Repatriated Travellers.csv,Canada,Repatriated Travellers
-"Saskatchewan, Canada",Saskatchewan.csv,Canada,Saskatchewan
-"Yukon, Canada",Yukon.csv,Canada,Yukon
-", Central African Republic",Central African Republic.csv,Central African Republic,
-", Chad",Chad.csv,Chad,
-", Chile",Chile.csv,Chile,
-"Anhui, China",Anhui.csv,China,Anhui
-"Beijing, China",Beijing.csv,China,Beijing
-"Chongqing, China",Chongqing.csv,China,Chongqing
-"Fujian, China",Fujian.csv,China,Fujian
-"Gansu, China",Gansu.csv,China,Gansu
-"Guangdong, China",Guangdong.csv,China,Guangdong
-"Guangxi, China",Guangxi.csv,China,Guangxi
-"Guizhou, China",Guizhou.csv,China,Guizhou
-"Hainan, China",Hainan.csv,China,Hainan
-"Hebei, China",Hebei.csv,China,Hebei
-"Heilongjiang, China",Heilongjiang.csv,China,Heilongjiang
-"Henan, China",Henan.csv,China,Henan
-"Hong Kong, China",Hong Kong.csv,China,Hong Kong
-"Hubei, China",Hubei.csv,China,Hubei
-"Hunan, China",Hunan.csv,China,Hunan
-"Inner Mongolia, China",Inner Mongolia.csv,China,Inner Mongolia
-"Jiangsu, China",Jiangsu.csv,China,Jiangsu
-"Jiangxi, China",Jiangxi.csv,China,Jiangxi
-"Jilin, China",Jilin.csv,China,Jilin
-"Liaoning, China",Liaoning.csv,China,Liaoning
-"Macau, China",Macau.csv,China,Macau
-"Ningxia, China",Ningxia.csv,China,Ningxia
-"Qinghai, China",Qinghai.csv,China,Qinghai
-"Shaanxi, China",Shaanxi.csv,China,Shaanxi
-"Shandong, China",Shandong.csv,China,Shandong
-"Shanghai, China",Shanghai.csv,China,Shanghai
-"Shanxi, China",Shanxi.csv,China,Shanxi
-"Sichuan, China",Sichuan.csv,China,Sichuan
-"Tianjin, China",Tianjin.csv,China,Tianjin
-"Tibet, China",Tibet.csv,China,Tibet
-"Xinjiang, China",Xinjiang.csv,China,Xinjiang
-"Yunnan, China",Yunnan.csv,China,Yunnan
-"Zhejiang, China",Zhejiang.csv,China,Zhejiang
-", Colombia",Colombia.csv,Colombia,
-", Comoros",Comoros.csv,Comoros,
-", Congo (Brazzaville)",Congo (Brazzaville).csv,Congo (Brazzaville),
-", Congo (Kinshasa)",Congo (Kinshasa).csv,Congo (Kinshasa),
-", Costa Rica",Costa Rica.csv,Costa Rica,
-", Cote d'Ivoire",Cote d'Ivoire.csv,Cote d'Ivoire,
-", Croatia",Croatia.csv,Croatia,
-", Cuba",Cuba.csv,Cuba,
-", Cyprus",Cyprus.csv,Cyprus,
-", Czechia",Czechia.csv,Czechia,
-", Denmark",Denmark.csv,Denmark,
-"Faroe Islands, Denmark",Faroe Islands.csv,Denmark,Faroe Islands
-"Greenland, Denmark",Greenland.csv,Denmark,Greenland
-", Diamond Princess",Diamond Princess.csv,Diamond Princess,
-", Djibouti",Djibouti.csv,Djibouti,
-", Dominica",Dominica.csv,Dominica,
-", Dominican Republic",Dominican Republic.csv,Dominican Republic,
-", Ecuador",Ecuador.csv,Ecuador,
-", Egypt",Egypt.csv,Egypt,
-", El Salvador",El Salvador.csv,El Salvador,
-", Equatorial Guinea",Equatorial Guinea.csv,Equatorial Guinea,
-", Eritrea",Eritrea.csv,Eritrea,
-", Estonia",Estonia.csv,Estonia,
-", Eswatini",Eswatini.csv,Eswatini,
-", Ethiopia",Ethiopia.csv,Ethiopia,
-", Fiji",Fiji.csv,Fiji,
-", Finland",Finland.csv,Finland,
-", France",France.csv,France,
-"French Guiana, France",French Guiana.csv,France,French Guiana
-"French Polynesia, France",French Polynesia.csv,France,French Polynesia
-"Guadeloupe, France",Guadeloupe.csv,France,Guadeloupe
-"Martinique, France",Martinique.csv,France,Martinique
-"Mayotte, France",Mayotte.csv,France,Mayotte
-"New Caledonia, France",New Caledonia.csv,France,New Caledonia
-"Reunion, France",Reunion.csv,France,Reunion
-"Saint Barthelemy, France",Saint Barthelemy.csv,France,Saint Barthelemy
-"Saint Pierre and Miquelon, France",Saint Pierre and Miquelon.csv,France,Saint Pierre and Miquelon
-"St Martin, France",St Martin.csv,France,St Martin
-"Wallis and Futuna, France",Wallis and Futuna.csv,France,Wallis and Futuna
-", Gabon",Gabon.csv,Gabon,
-", Gambia",Gambia.csv,Gambia,
-", Georgia",Georgia.csv,Georgia,
-", Germany",Germany.csv,Germany,
-", Ghana",Ghana.csv,Ghana,
-", Greece",Greece.csv,Greece,
-", Grenada",Grenada.csv,Grenada,
-", Guatemala",Guatemala.csv,Guatemala,
-", Guinea",Guinea.csv,Guinea,
-", Guinea-Bissau",Guinea-Bissau.csv,Guinea-Bissau,
-", Guyana",Guyana.csv,Guyana,
-", Haiti",Haiti.csv,Haiti,
-", Holy See",Holy See.csv,Holy See,
-", Honduras",Honduras.csv,Honduras,
-", Hungary",Hungary.csv,Hungary,
-", Iceland",Iceland.csv,Iceland,
-", India",India.csv,India,
-", Indonesia",Indonesia.csv,Indonesia,
-", Iran",Iran.csv,Iran,
-", Iraq",Iraq.csv,Iraq,
-", Ireland",Ireland.csv,Ireland,
-", Israel",Israel.csv,Israel,
-", Italy",Italy.csv,Italy,
-", Jamaica",Jamaica.csv,Jamaica,
-", Japan",Japan.csv,Japan,
-", Jordan",Jordan.csv,Jordan,
-", Kazakhstan",Kazakhstan.csv,Kazakhstan,
-", Kenya",Kenya.csv,Kenya,
-", Korea South",Korea South.csv,Korea South,
-", Kosovo",Kosovo.csv,Kosovo,
-", Kuwait",Kuwait.csv,Kuwait,
-", Kyrgyzstan",Kyrgyzstan.csv,Kyrgyzstan,
-", Laos",Laos.csv,Laos,
-", Latvia",Latvia.csv,Latvia,
-", Lebanon",Lebanon.csv,Lebanon,
-", Lesotho",Lesotho.csv,Lesotho,
-", Liberia",Liberia.csv,Liberia,
-", Libya",Libya.csv,Libya,
-", Liechtenstein",Liechtenstein.csv,Liechtenstein,
-", Lithuania",Lithuania.csv,Lithuania,
-", Luxembourg",Luxembourg.csv,Luxembourg,
-", MS Zaandam",MS Zaandam.csv,MS Zaandam,
-", Madagascar",Madagascar.csv,Madagascar,
-", Malawi",Malawi.csv,Malawi,
-", Malaysia",Malaysia.csv,Malaysia,
-", Maldives",Maldives.csv,Maldives,
-", Mali",Mali.csv,Mali,
-", Malta",Malta.csv,Malta,
-", Marshall Islands",Marshall Islands.csv,Marshall Islands,
-", Mauritania",Mauritania.csv,Mauritania,
-", Mauritius",Mauritius.csv,Mauritius,
-", Mexico",Mexico.csv,Mexico,
-", Micronesia",Micronesia.csv,Micronesia,
-", Moldova",Moldova.csv,Moldova,
-", Monaco",Monaco.csv,Monaco,
-", Mongolia",Mongolia.csv,Mongolia,
-", Montenegro",Montenegro.csv,Montenegro,
-", Morocco",Morocco.csv,Morocco,
-", Mozambique",Mozambique.csv,Mozambique,
-", Namibia",Namibia.csv,Namibia,
-", Nepal",Nepal.csv,Nepal,
-", Netherlands",Netherlands.csv,Netherlands,
-"Aruba, Netherlands",Aruba.csv,Netherlands,Aruba
-"Bonaire Sint Eustatius and Saba, Netherlands",Bonaire Sint Eustatius and Saba.csv,Netherlands,Bonaire Sint Eustatius and Saba
-"Curacao, Netherlands",Curacao.csv,Netherlands,Curacao
-"Sint Maarten, Netherlands",Sint Maarten.csv,Netherlands,Sint Maarten
-", New Zealand",New Zealand.csv,New Zealand,
-", Nicaragua",Nicaragua.csv,Nicaragua,
-", Niger",Niger.csv,Niger,
-", Nigeria",Nigeria.csv,Nigeria,
-", North Macedonia",North Macedonia.csv,North Macedonia,
-", Norway",Norway.csv,Norway,
-", Oman",Oman.csv,Oman,
-", Pakistan",Pakistan.csv,Pakistan,
-", Panama",Panama.csv,Panama,
-", Papua New Guinea",Papua New Guinea.csv,Papua New Guinea,
-", Paraguay",Paraguay.csv,Paraguay,
-", Peru",Peru.csv,Peru,
-", Philippines",Philippines.csv,Philippines,
-", Poland",Poland.csv,Poland,
-", Portugal",Portugal.csv,Portugal,
-", Qatar",Qatar.csv,Qatar,
-", Romania",Romania.csv,Romania,
-", Russia",Russia.csv,Russia,
-", Rwanda",Rwanda.csv,Rwanda,
-", Saint Kitts and Nevis",Saint Kitts and Nevis.csv,Saint Kitts and Nevis,
-", Saint Lucia",Saint Lucia.csv,Saint Lucia,
-", Saint Vincent and the Grenadines",Saint Vincent and the Grenadines.csv,Saint Vincent and the Grenadines,
-", Samoa",Samoa.csv,Samoa,
-", San Marino",San Marino.csv,San Marino,
-", Sao Tome and Principe",Sao Tome and Principe.csv,Sao Tome and Principe,
-", Saudi Arabia",Saudi Arabia.csv,Saudi Arabia,
-", Senegal",Senegal.csv,Senegal,
-", Serbia",Serbia.csv,Serbia,
-", Seychelles",Seychelles.csv,Seychelles,
-", Sierra Leone",Sierra Leone.csv,Sierra Leone,
-", Singapore",Singapore.csv,Singapore,
-", Slovakia",Slovakia.csv,Slovakia,
-", Slovenia",Slovenia.csv,Slovenia,
-", Solomon Islands",Solomon Islands.csv,Solomon Islands,
-", Somalia",Somalia.csv,Somalia,
-", South Africa",South Africa.csv,South Africa,
-", South Sudan",South Sudan.csv,South Sudan,
-", Spain",Spain.csv,Spain,
-", Sri Lanka",Sri Lanka.csv,Sri Lanka,
-", Sudan",Sudan.csv,Sudan,
-", Suriname",Suriname.csv,Suriname,
-", Sweden",Sweden.csv,Sweden,
-", Switzerland",Switzerland.csv,Switzerland,
-", Syria",Syria.csv,Syria,
-", Taiwan",Taiwan.csv,Taiwan,
-", Tajikistan",Tajikistan.csv,Tajikistan,
-", Tanzania",Tanzania.csv,Tanzania,
-", Thailand",Thailand.csv,Thailand,
-", Timor-Leste",Timor-Leste.csv,Timor-Leste,
-", Togo",Togo.csv,Togo,
-", Trinidad and Tobago",Trinidad and Tobago.csv,Trinidad and Tobago,
-", Tunisia",Tunisia.csv,Tunisia,
-", Turkey",Turkey.csv,Turkey,
-", US",US.csv,US,
-", Uganda",Uganda.csv,Uganda,
-", Ukraine",Ukraine.csv,Ukraine,
-", United Arab Emirates",United Arab Emirates.csv,United Arab Emirates,
-", United Kingdom",United Kingdom.csv,United Kingdom,
-"Anguilla, United Kingdom",Anguilla.csv,United Kingdom,Anguilla
-"Bermuda, United Kingdom",Bermuda.csv,United Kingdom,Bermuda
-"British Virgin Islands, United Kingdom",British Virgin Islands.csv,United Kingdom,British Virgin Islands
-"Cayman Islands, United Kingdom",Cayman Islands.csv,United Kingdom,Cayman Islands
-"Channel Islands, United Kingdom",Channel Islands.csv,United Kingdom,Channel Islands
-"Falkland Islands (Malvinas), United Kingdom",Falkland Islands (Malvinas).csv,United Kingdom,Falkland Islands (Malvinas)
-"Gibraltar, United Kingdom",Gibraltar.csv,United Kingdom,Gibraltar
-"Isle of Man, United Kingdom",Isle of Man.csv,United Kingdom,Isle of Man
-"Montserrat, United Kingdom",Montserrat.csv,United Kingdom,Montserrat
-"Saint Helena Ascension and Tristan da Cunha, United Kingdom",Saint Helena Ascension and Tristan da Cunha.csv,United Kingdom,Saint Helena Ascension and Tristan da Cunha
-"Turks and Caicos Islands, United Kingdom",Turks and Caicos Islands.csv,United Kingdom,Turks and Caicos Islands
-", Uruguay",Uruguay.csv,Uruguay,
-", Uzbekistan",Uzbekistan.csv,Uzbekistan,
-", Vanuatu",Vanuatu.csv,Vanuatu,
-", Venezuela",Venezuela.csv,Venezuela,
-", Vietnam",Vietnam.csv,Vietnam,
-", West Bank and Gaza",West Bank and Gaza.csv,West Bank and Gaza,
-", Yemen",Yemen.csv,Yemen,
-", Zambia",Zambia.csv,Zambia,
-", Zimbabwe",Zimbabwe.csv,Zimbabwe,
-Australia,Australia.csv,Australia,
-Canada,Canada.csv,Canada,
-China,China.csv,China,
-"Alabama, US",Alabama.csv,US,Alabama
-"Alaska, US",Alaska.csv,US,Alaska
-"American Samoa, US",American Samoa.csv,US,American Samoa
-"Arizona, US",Arizona.csv,US,Arizona
-"Arkansas, US",Arkansas.csv,US,Arkansas
-"California, US",California.csv,US,California
-"Colorado, US",Colorado.csv,US,Colorado
-"Connecticut, US",Connecticut.csv,US,Connecticut
-"Delaware, US",Delaware.csv,US,Delaware
-"Diamond Princess, US",Diamond Princess.csv,US,Diamond Princess
-"District of Columbia, US",District of Columbia.csv,US,District of Columbia
-"Florida, US",Florida.csv,US,Florida
-"Georgia, US",Georgia.csv,US,Georgia
-"Grand Princess, US",Grand Princess.csv,US,Grand Princess
-"Guam, US",Guam.csv,US,Guam
-"Hawaii, US",Hawaii.csv,US,Hawaii
-"Idaho, US",Idaho.csv,US,Idaho
-"Illinois, US",Illinois.csv,US,Illinois
-"Indiana, US",Indiana.csv,US,Indiana
-"Iowa, US",Iowa.csv,US,Iowa
-"Kansas, US",Kansas.csv,US,Kansas
-"Kentucky, US",Kentucky.csv,US,Kentucky
-"Louisiana, US",Louisiana.csv,US,Louisiana
-"Maine, US",Maine.csv,US,Maine
-"Maryland, US",Maryland.csv,US,Maryland
-"Massachusetts, US",Massachusetts.csv,US,Massachusetts
-"Michigan, US",Michigan.csv,US,Michigan
-"Minnesota, US",Minnesota.csv,US,Minnesota
-"Mississippi, US",Mississippi.csv,US,Mississippi
-"Missouri, US",Missouri.csv,US,Missouri
-"Montana, US",Montana.csv,US,Montana
-"Nebraska, US",Nebraska.csv,US,Nebraska
-"Nevada, US",Nevada.csv,US,Nevada
-"New Hampshire, US",New Hampshire.csv,US,New Hampshire
-"New Jersey, US",New Jersey.csv,US,New Jersey
-"New Mexico, US",New Mexico.csv,US,New Mexico
-"New York, US",New York.csv,US,New York
-"North Carolina, US",North Carolina.csv,US,North Carolina
-"North Dakota, US",North Dakota.csv,US,North Dakota
-"Northern Mariana Islands, US",Northern Mariana Islands.csv,US,Northern Mariana Islands
-"Ohio, US",Ohio.csv,US,Ohio
-"Oklahoma, US",Oklahoma.csv,US,Oklahoma
-"Oregon, US",Oregon.csv,US,Oregon
-"Pennsylvania, US",Pennsylvania.csv,US,Pennsylvania
-"Puerto Rico, US",Puerto Rico.csv,US,Puerto Rico
-"Rhode Island, US",Rhode Island.csv,US,Rhode Island
-"South Carolina, US",South Carolina.csv,US,South Carolina
-"South Dakota, US",South Dakota.csv,US,South Dakota
-"Tennessee, US",Tennessee.csv,US,Tennessee
-"Texas, US",Texas.csv,US,Texas
-"Utah, US",Utah.csv,US,Utah
-"Vermont, US",Vermont.csv,US,Vermont
-"Virgin Islands, US",Virgin Islands.csv,US,Virgin Islands
-"Virginia, US",Virginia.csv,US,Virginia
-"Washington, US",Washington.csv,US,Washington
-"West Virginia, US",West Virginia.csv,US,West Virginia
-"Wisconsin, US",Wisconsin.csv,US,Wisconsin
-"Wyoming, US",Wyoming.csv,US,Wyoming
+display_key,combined_key,file_name,country,province
+Afghanistan,", Afghanistan",Afghanistan.csv,Afghanistan,
+Albania,", Albania",Albania.csv,Albania,
+Algeria,", Algeria",Algeria.csv,Algeria,
+Andorra,", Andorra",Andorra.csv,Andorra,
+Angola,", Angola",Angola.csv,Angola,
+Antigua and Barbuda,", Antigua and Barbuda",Antigua and Barbuda.csv,Antigua and Barbuda,
+Argentina,", Argentina",Argentina.csv,Argentina,
+Armenia,", Armenia",Armenia.csv,Armenia,
+"Australia, Australian Capital Territory","Australian Capital Territory, Australia",Australian Capital Territory.csv,Australia,Australian Capital Territory
+"Australia, New South Wales","New South Wales, Australia",New South Wales.csv,Australia,New South Wales
+"Australia, Northern Territory","Northern Territory, Australia",Northern Territory.csv,Australia,Northern Territory
+"Australia, Queensland","Queensland, Australia",Queensland.csv,Australia,Queensland
+"Australia, South Australia","South Australia, Australia",South Australia.csv,Australia,South Australia
+"Australia, Tasmania","Tasmania, Australia",Tasmania.csv,Australia,Tasmania
+"Australia, Victoria","Victoria, Australia",Victoria.csv,Australia,Victoria
+"Australia, Western Australia","Western Australia, Australia",Western Australia.csv,Australia,Western Australia
+Austria,", Austria",Austria.csv,Austria,
+Azerbaijan,", Azerbaijan",Azerbaijan.csv,Azerbaijan,
+Bahamas,", Bahamas",Bahamas.csv,Bahamas,
+Bahrain,", Bahrain",Bahrain.csv,Bahrain,
+Bangladesh,", Bangladesh",Bangladesh.csv,Bangladesh,
+Barbados,", Barbados",Barbados.csv,Barbados,
+Belarus,", Belarus",Belarus.csv,Belarus,
+Belgium,", Belgium",Belgium.csv,Belgium,
+Belize,", Belize",Belize.csv,Belize,
+Benin,", Benin",Benin.csv,Benin,
+Bhutan,", Bhutan",Bhutan.csv,Bhutan,
+Bolivia,", Bolivia",Bolivia.csv,Bolivia,
+Bosnia and Herzegovina,", Bosnia and Herzegovina",Bosnia and Herzegovina.csv,Bosnia and Herzegovina,
+Botswana,", Botswana",Botswana.csv,Botswana,
+Brazil,", Brazil",Brazil.csv,Brazil,
+Brunei,", Brunei",Brunei.csv,Brunei,
+Bulgaria,", Bulgaria",Bulgaria.csv,Bulgaria,
+Burkina Faso,", Burkina Faso",Burkina Faso.csv,Burkina Faso,
+Burma,", Burma",Burma.csv,Burma,
+Burundi,", Burundi",Burundi.csv,Burundi,
+Cabo Verde,", Cabo Verde",Cabo Verde.csv,Cabo Verde,
+Cambodia,", Cambodia",Cambodia.csv,Cambodia,
+Cameroon,", Cameroon",Cameroon.csv,Cameroon,
+"Canada, Alberta","Alberta, Canada",Alberta.csv,Canada,Alberta
+"Canada, British Columbia","British Columbia, Canada",British Columbia.csv,Canada,British Columbia
+"Canada, Diamond Princess","Diamond Princess, Canada",Diamond Princess.csv,Canada,Diamond Princess
+"Canada, Grand Princess","Grand Princess, Canada",Grand Princess.csv,Canada,Grand Princess
+"Canada, Manitoba","Manitoba, Canada",Manitoba.csv,Canada,Manitoba
+"Canada, New Brunswick","New Brunswick, Canada",New Brunswick.csv,Canada,New Brunswick
+"Canada, Newfoundland and Labrador","Newfoundland and Labrador, Canada",Newfoundland and Labrador.csv,Canada,Newfoundland and Labrador
+"Canada, Northwest Territories","Northwest Territories, Canada",Northwest Territories.csv,Canada,Northwest Territories
+"Canada, Nova Scotia","Nova Scotia, Canada",Nova Scotia.csv,Canada,Nova Scotia
+"Canada, Nunavut","Nunavut, Canada",Nunavut.csv,Canada,Nunavut
+"Canada, Ontario","Ontario, Canada",Ontario.csv,Canada,Ontario
+"Canada, Prince Edward Island","Prince Edward Island, Canada",Prince Edward Island.csv,Canada,Prince Edward Island
+"Canada, Quebec","Quebec, Canada",Quebec.csv,Canada,Quebec
+"Canada, Repatriated Travellers","Repatriated Travellers, Canada",Repatriated Travellers.csv,Canada,Repatriated Travellers
+"Canada, Saskatchewan","Saskatchewan, Canada",Saskatchewan.csv,Canada,Saskatchewan
+"Canada, Yukon","Yukon, Canada",Yukon.csv,Canada,Yukon
+Central African Republic,", Central African Republic",Central African Republic.csv,Central African Republic,
+Chad,", Chad",Chad.csv,Chad,
+Chile,", Chile",Chile.csv,Chile,
+"China, Anhui","Anhui, China",Anhui.csv,China,Anhui
+"China, Beijing","Beijing, China",Beijing.csv,China,Beijing
+"China, Chongqing","Chongqing, China",Chongqing.csv,China,Chongqing
+"China, Fujian","Fujian, China",Fujian.csv,China,Fujian
+"China, Gansu","Gansu, China",Gansu.csv,China,Gansu
+"China, Guangdong","Guangdong, China",Guangdong.csv,China,Guangdong
+"China, Guangxi","Guangxi, China",Guangxi.csv,China,Guangxi
+"China, Guizhou","Guizhou, China",Guizhou.csv,China,Guizhou
+"China, Hainan","Hainan, China",Hainan.csv,China,Hainan
+"China, Hebei","Hebei, China",Hebei.csv,China,Hebei
+"China, Heilongjiang","Heilongjiang, China",Heilongjiang.csv,China,Heilongjiang
+"China, Henan","Henan, China",Henan.csv,China,Henan
+"China, Hong Kong","Hong Kong, China",Hong Kong.csv,China,Hong Kong
+"China, Hubei","Hubei, China",Hubei.csv,China,Hubei
+"China, Hunan","Hunan, China",Hunan.csv,China,Hunan
+"China, Inner Mongolia","Inner Mongolia, China",Inner Mongolia.csv,China,Inner Mongolia
+"China, Jiangsu","Jiangsu, China",Jiangsu.csv,China,Jiangsu
+"China, Jiangxi","Jiangxi, China",Jiangxi.csv,China,Jiangxi
+"China, Jilin","Jilin, China",Jilin.csv,China,Jilin
+"China, Liaoning","Liaoning, China",Liaoning.csv,China,Liaoning
+"China, Macau","Macau, China",Macau.csv,China,Macau
+"China, Ningxia","Ningxia, China",Ningxia.csv,China,Ningxia
+"China, Qinghai","Qinghai, China",Qinghai.csv,China,Qinghai
+"China, Shaanxi","Shaanxi, China",Shaanxi.csv,China,Shaanxi
+"China, Shandong","Shandong, China",Shandong.csv,China,Shandong
+"China, Shanghai","Shanghai, China",Shanghai.csv,China,Shanghai
+"China, Shanxi","Shanxi, China",Shanxi.csv,China,Shanxi
+"China, Sichuan","Sichuan, China",Sichuan.csv,China,Sichuan
+"China, Tianjin","Tianjin, China",Tianjin.csv,China,Tianjin
+"China, Tibet","Tibet, China",Tibet.csv,China,Tibet
+"China, Xinjiang","Xinjiang, China",Xinjiang.csv,China,Xinjiang
+"China, Yunnan","Yunnan, China",Yunnan.csv,China,Yunnan
+"China, Zhejiang","Zhejiang, China",Zhejiang.csv,China,Zhejiang
+Colombia,", Colombia",Colombia.csv,Colombia,
+Comoros,", Comoros",Comoros.csv,Comoros,
+Congo (Brazzaville),", Congo (Brazzaville)",Congo (Brazzaville).csv,Congo (Brazzaville),
+Congo (Kinshasa),", Congo (Kinshasa)",Congo (Kinshasa).csv,Congo (Kinshasa),
+Costa Rica,", Costa Rica",Costa Rica.csv,Costa Rica,
+Cote d'Ivoire,", Cote d'Ivoire",Cote d'Ivoire.csv,Cote d'Ivoire,
+Croatia,", Croatia",Croatia.csv,Croatia,
+Cuba,", Cuba",Cuba.csv,Cuba,
+Cyprus,", Cyprus",Cyprus.csv,Cyprus,
+Czechia,", Czechia",Czechia.csv,Czechia,
+Denmark,", Denmark",Denmark.csv,Denmark,
+"Denmark, Faroe Islands","Faroe Islands, Denmark",Faroe Islands.csv,Denmark,Faroe Islands
+"Denmark, Greenland","Greenland, Denmark",Greenland.csv,Denmark,Greenland
+Diamond Princess,", Diamond Princess",Diamond Princess.csv,Diamond Princess,
+Djibouti,", Djibouti",Djibouti.csv,Djibouti,
+Dominica,", Dominica",Dominica.csv,Dominica,
+Dominican Republic,", Dominican Republic",Dominican Republic.csv,Dominican Republic,
+Ecuador,", Ecuador",Ecuador.csv,Ecuador,
+Egypt,", Egypt",Egypt.csv,Egypt,
+El Salvador,", El Salvador",El Salvador.csv,El Salvador,
+Equatorial Guinea,", Equatorial Guinea",Equatorial Guinea.csv,Equatorial Guinea,
+Eritrea,", Eritrea",Eritrea.csv,Eritrea,
+Estonia,", Estonia",Estonia.csv,Estonia,
+Eswatini,", Eswatini",Eswatini.csv,Eswatini,
+Ethiopia,", Ethiopia",Ethiopia.csv,Ethiopia,
+Fiji,", Fiji",Fiji.csv,Fiji,
+Finland,", Finland",Finland.csv,Finland,
+France,", France",France.csv,France,
+"France, French Guiana","French Guiana, France",French Guiana.csv,France,French Guiana
+"France, French Polynesia","French Polynesia, France",French Polynesia.csv,France,French Polynesia
+"France, Guadeloupe","Guadeloupe, France",Guadeloupe.csv,France,Guadeloupe
+"France, Martinique","Martinique, France",Martinique.csv,France,Martinique
+"France, Mayotte","Mayotte, France",Mayotte.csv,France,Mayotte
+"France, New Caledonia","New Caledonia, France",New Caledonia.csv,France,New Caledonia
+"France, Reunion","Reunion, France",Reunion.csv,France,Reunion
+"France, Saint Barthelemy","Saint Barthelemy, France",Saint Barthelemy.csv,France,Saint Barthelemy
+"France, Saint Pierre and Miquelon","Saint Pierre and Miquelon, France",Saint Pierre and Miquelon.csv,France,Saint Pierre and Miquelon
+"France, St Martin","St Martin, France",St Martin.csv,France,St Martin
+"France, Wallis and Futuna","Wallis and Futuna, France",Wallis and Futuna.csv,France,Wallis and Futuna
+Gabon,", Gabon",Gabon.csv,Gabon,
+Gambia,", Gambia",Gambia.csv,Gambia,
+Georgia,", Georgia",Georgia.csv,Georgia,
+Germany,", Germany",Germany.csv,Germany,
+Ghana,", Ghana",Ghana.csv,Ghana,
+Greece,", Greece",Greece.csv,Greece,
+Grenada,", Grenada",Grenada.csv,Grenada,
+Guatemala,", Guatemala",Guatemala.csv,Guatemala,
+Guinea,", Guinea",Guinea.csv,Guinea,
+Guinea-Bissau,", Guinea-Bissau",Guinea-Bissau.csv,Guinea-Bissau,
+Guyana,", Guyana",Guyana.csv,Guyana,
+Haiti,", Haiti",Haiti.csv,Haiti,
+Holy See,", Holy See",Holy See.csv,Holy See,
+Honduras,", Honduras",Honduras.csv,Honduras,
+Hungary,", Hungary",Hungary.csv,Hungary,
+Iceland,", Iceland",Iceland.csv,Iceland,
+India,", India",India.csv,India,
+Indonesia,", Indonesia",Indonesia.csv,Indonesia,
+Iran,", Iran",Iran.csv,Iran,
+Iraq,", Iraq",Iraq.csv,Iraq,
+Ireland,", Ireland",Ireland.csv,Ireland,
+Israel,", Israel",Israel.csv,Israel,
+Italy,", Italy",Italy.csv,Italy,
+Jamaica,", Jamaica",Jamaica.csv,Jamaica,
+Japan,", Japan",Japan.csv,Japan,
+Jordan,", Jordan",Jordan.csv,Jordan,
+Kazakhstan,", Kazakhstan",Kazakhstan.csv,Kazakhstan,
+Kenya,", Kenya",Kenya.csv,Kenya,
+Korea South,", Korea South",Korea South.csv,Korea South,
+Kosovo,", Kosovo",Kosovo.csv,Kosovo,
+Kuwait,", Kuwait",Kuwait.csv,Kuwait,
+Kyrgyzstan,", Kyrgyzstan",Kyrgyzstan.csv,Kyrgyzstan,
+Laos,", Laos",Laos.csv,Laos,
+Latvia,", Latvia",Latvia.csv,Latvia,
+Lebanon,", Lebanon",Lebanon.csv,Lebanon,
+Lesotho,", Lesotho",Lesotho.csv,Lesotho,
+Liberia,", Liberia",Liberia.csv,Liberia,
+Libya,", Libya",Libya.csv,Libya,
+Liechtenstein,", Liechtenstein",Liechtenstein.csv,Liechtenstein,
+Lithuania,", Lithuania",Lithuania.csv,Lithuania,
+Luxembourg,", Luxembourg",Luxembourg.csv,Luxembourg,
+MS Zaandam,", MS Zaandam",MS Zaandam.csv,MS Zaandam,
+Madagascar,", Madagascar",Madagascar.csv,Madagascar,
+Malawi,", Malawi",Malawi.csv,Malawi,
+Malaysia,", Malaysia",Malaysia.csv,Malaysia,
+Maldives,", Maldives",Maldives.csv,Maldives,
+Mali,", Mali",Mali.csv,Mali,
+Malta,", Malta",Malta.csv,Malta,
+Marshall Islands,", Marshall Islands",Marshall Islands.csv,Marshall Islands,
+Mauritania,", Mauritania",Mauritania.csv,Mauritania,
+Mauritius,", Mauritius",Mauritius.csv,Mauritius,
+Mexico,", Mexico",Mexico.csv,Mexico,
+Micronesia,", Micronesia",Micronesia.csv,Micronesia,
+Moldova,", Moldova",Moldova.csv,Moldova,
+Monaco,", Monaco",Monaco.csv,Monaco,
+Mongolia,", Mongolia",Mongolia.csv,Mongolia,
+Montenegro,", Montenegro",Montenegro.csv,Montenegro,
+Morocco,", Morocco",Morocco.csv,Morocco,
+Mozambique,", Mozambique",Mozambique.csv,Mozambique,
+Namibia,", Namibia",Namibia.csv,Namibia,
+Nepal,", Nepal",Nepal.csv,Nepal,
+Netherlands,", Netherlands",Netherlands.csv,Netherlands,
+"Netherlands, Aruba","Aruba, Netherlands",Aruba.csv,Netherlands,Aruba
+"Netherlands, Bonaire Sint Eustatius and Saba","Bonaire Sint Eustatius and Saba, Netherlands",Bonaire Sint Eustatius and Saba.csv,Netherlands,Bonaire Sint Eustatius and Saba
+"Netherlands, Curacao","Curacao, Netherlands",Curacao.csv,Netherlands,Curacao
+"Netherlands, Sint Maarten","Sint Maarten, Netherlands",Sint Maarten.csv,Netherlands,Sint Maarten
+New Zealand,", New Zealand",New Zealand.csv,New Zealand,
+Nicaragua,", Nicaragua",Nicaragua.csv,Nicaragua,
+Niger,", Niger",Niger.csv,Niger,
+Nigeria,", Nigeria",Nigeria.csv,Nigeria,
+North Macedonia,", North Macedonia",North Macedonia.csv,North Macedonia,
+Norway,", Norway",Norway.csv,Norway,
+Oman,", Oman",Oman.csv,Oman,
+Pakistan,", Pakistan",Pakistan.csv,Pakistan,
+Panama,", Panama",Panama.csv,Panama,
+Papua New Guinea,", Papua New Guinea",Papua New Guinea.csv,Papua New Guinea,
+Paraguay,", Paraguay",Paraguay.csv,Paraguay,
+Peru,", Peru",Peru.csv,Peru,
+Philippines,", Philippines",Philippines.csv,Philippines,
+Poland,", Poland",Poland.csv,Poland,
+Portugal,", Portugal",Portugal.csv,Portugal,
+Qatar,", Qatar",Qatar.csv,Qatar,
+Romania,", Romania",Romania.csv,Romania,
+Russia,", Russia",Russia.csv,Russia,
+Rwanda,", Rwanda",Rwanda.csv,Rwanda,
+Saint Kitts and Nevis,", Saint Kitts and Nevis",Saint Kitts and Nevis.csv,Saint Kitts and Nevis,
+Saint Lucia,", Saint Lucia",Saint Lucia.csv,Saint Lucia,
+Saint Vincent and the Grenadines,", Saint Vincent and the Grenadines",Saint Vincent and the Grenadines.csv,Saint Vincent and the Grenadines,
+Samoa,", Samoa",Samoa.csv,Samoa,
+San Marino,", San Marino",San Marino.csv,San Marino,
+Sao Tome and Principe,", Sao Tome and Principe",Sao Tome and Principe.csv,Sao Tome and Principe,
+Saudi Arabia,", Saudi Arabia",Saudi Arabia.csv,Saudi Arabia,
+Senegal,", Senegal",Senegal.csv,Senegal,
+Serbia,", Serbia",Serbia.csv,Serbia,
+Seychelles,", Seychelles",Seychelles.csv,Seychelles,
+Sierra Leone,", Sierra Leone",Sierra Leone.csv,Sierra Leone,
+Singapore,", Singapore",Singapore.csv,Singapore,
+Slovakia,", Slovakia",Slovakia.csv,Slovakia,
+Slovenia,", Slovenia",Slovenia.csv,Slovenia,
+Solomon Islands,", Solomon Islands",Solomon Islands.csv,Solomon Islands,
+Somalia,", Somalia",Somalia.csv,Somalia,
+South Africa,", South Africa",South Africa.csv,South Africa,
+South Sudan,", South Sudan",South Sudan.csv,South Sudan,
+Spain,", Spain",Spain.csv,Spain,
+Sri Lanka,", Sri Lanka",Sri Lanka.csv,Sri Lanka,
+Sudan,", Sudan",Sudan.csv,Sudan,
+Suriname,", Suriname",Suriname.csv,Suriname,
+Sweden,", Sweden",Sweden.csv,Sweden,
+Switzerland,", Switzerland",Switzerland.csv,Switzerland,
+Syria,", Syria",Syria.csv,Syria,
+Taiwan,", Taiwan",Taiwan.csv,Taiwan,
+Tajikistan,", Tajikistan",Tajikistan.csv,Tajikistan,
+Tanzania,", Tanzania",Tanzania.csv,Tanzania,
+Thailand,", Thailand",Thailand.csv,Thailand,
+Timor-Leste,", Timor-Leste",Timor-Leste.csv,Timor-Leste,
+Togo,", Togo",Togo.csv,Togo,
+Trinidad and Tobago,", Trinidad and Tobago",Trinidad and Tobago.csv,Trinidad and Tobago,
+Tunisia,", Tunisia",Tunisia.csv,Tunisia,
+Turkey,", Turkey",Turkey.csv,Turkey,
+US,", US",US.csv,US,
+Uganda,", Uganda",Uganda.csv,Uganda,
+Ukraine,", Ukraine",Ukraine.csv,Ukraine,
+United Arab Emirates,", United Arab Emirates",United Arab Emirates.csv,United Arab Emirates,
+United Kingdom,", United Kingdom",United Kingdom.csv,United Kingdom,
+"United Kingdom, Anguilla","Anguilla, United Kingdom",Anguilla.csv,United Kingdom,Anguilla
+"United Kingdom, Bermuda","Bermuda, United Kingdom",Bermuda.csv,United Kingdom,Bermuda
+"United Kingdom, British Virgin Islands","British Virgin Islands, United Kingdom",British Virgin Islands.csv,United Kingdom,British Virgin Islands
+"United Kingdom, Cayman Islands","Cayman Islands, United Kingdom",Cayman Islands.csv,United Kingdom,Cayman Islands
+"United Kingdom, Channel Islands","Channel Islands, United Kingdom",Channel Islands.csv,United Kingdom,Channel Islands
+"United Kingdom, Falkland Islands (Malvinas)","Falkland Islands (Malvinas), United Kingdom",Falkland Islands (Malvinas).csv,United Kingdom,Falkland Islands (Malvinas)
+"United Kingdom, Gibraltar","Gibraltar, United Kingdom",Gibraltar.csv,United Kingdom,Gibraltar
+"United Kingdom, Isle of Man","Isle of Man, United Kingdom",Isle of Man.csv,United Kingdom,Isle of Man
+"United Kingdom, Montserrat","Montserrat, United Kingdom",Montserrat.csv,United Kingdom,Montserrat
+"United Kingdom, Saint Helena Ascension and Tristan da Cunha","Saint Helena Ascension and Tristan da Cunha, United Kingdom",Saint Helena Ascension and Tristan da Cunha.csv,United Kingdom,Saint Helena Ascension and Tristan da Cunha
+"United Kingdom, Turks and Caicos Islands","Turks and Caicos Islands, United Kingdom",Turks and Caicos Islands.csv,United Kingdom,Turks and Caicos Islands
+Uruguay,", Uruguay",Uruguay.csv,Uruguay,
+Uzbekistan,", Uzbekistan",Uzbekistan.csv,Uzbekistan,
+Vanuatu,", Vanuatu",Vanuatu.csv,Vanuatu,
+Venezuela,", Venezuela",Venezuela.csv,Venezuela,
+Vietnam,", Vietnam",Vietnam.csv,Vietnam,
+West Bank and Gaza,", West Bank and Gaza",West Bank and Gaza.csv,West Bank and Gaza,
+Yemen,", Yemen",Yemen.csv,Yemen,
+Zambia,", Zambia",Zambia.csv,Zambia,
+Zimbabwe,", Zimbabwe",Zimbabwe.csv,Zimbabwe,
+Australia,", Australia",Australia.csv,Australia,
+Canada,", Canada",Canada.csv,Canada,
+China,", China",China.csv,China,
+"US, Alabama","Alabama, US",Alabama.csv,US,Alabama
+"US, Alaska","Alaska, US",Alaska.csv,US,Alaska
+"US, American Samoa","American Samoa, US",American Samoa.csv,US,American Samoa
+"US, Arizona","Arizona, US",Arizona.csv,US,Arizona
+"US, Arkansas","Arkansas, US",Arkansas.csv,US,Arkansas
+"US, California","California, US",California.csv,US,California
+"US, Colorado","Colorado, US",Colorado.csv,US,Colorado
+"US, Connecticut","Connecticut, US",Connecticut.csv,US,Connecticut
+"US, Delaware","Delaware, US",Delaware.csv,US,Delaware
+"US, Diamond Princess","Diamond Princess, US",Diamond Princess.csv,US,Diamond Princess
+"US, District of Columbia","District of Columbia, US",District of Columbia.csv,US,District of Columbia
+"US, Florida","Florida, US",Florida.csv,US,Florida
+"US, Georgia","Georgia, US",Georgia.csv,US,Georgia
+"US, Grand Princess","Grand Princess, US",Grand Princess.csv,US,Grand Princess
+"US, Guam","Guam, US",Guam.csv,US,Guam
+"US, Hawaii","Hawaii, US",Hawaii.csv,US,Hawaii
+"US, Idaho","Idaho, US",Idaho.csv,US,Idaho
+"US, Illinois","Illinois, US",Illinois.csv,US,Illinois
+"US, Indiana","Indiana, US",Indiana.csv,US,Indiana
+"US, Iowa","Iowa, US",Iowa.csv,US,Iowa
+"US, Kansas","Kansas, US",Kansas.csv,US,Kansas
+"US, Kentucky","Kentucky, US",Kentucky.csv,US,Kentucky
+"US, Louisiana","Louisiana, US",Louisiana.csv,US,Louisiana
+"US, Maine","Maine, US",Maine.csv,US,Maine
+"US, Maryland","Maryland, US",Maryland.csv,US,Maryland
+"US, Massachusetts","Massachusetts, US",Massachusetts.csv,US,Massachusetts
+"US, Michigan","Michigan, US",Michigan.csv,US,Michigan
+"US, Minnesota","Minnesota, US",Minnesota.csv,US,Minnesota
+"US, Mississippi","Mississippi, US",Mississippi.csv,US,Mississippi
+"US, Missouri","Missouri, US",Missouri.csv,US,Missouri
+"US, Montana","Montana, US",Montana.csv,US,Montana
+"US, Nebraska","Nebraska, US",Nebraska.csv,US,Nebraska
+"US, Nevada","Nevada, US",Nevada.csv,US,Nevada
+"US, New Hampshire","New Hampshire, US",New Hampshire.csv,US,New Hampshire
+"US, New Jersey","New Jersey, US",New Jersey.csv,US,New Jersey
+"US, New Mexico","New Mexico, US",New Mexico.csv,US,New Mexico
+"US, New York","New York, US",New York.csv,US,New York
+"US, North Carolina","North Carolina, US",North Carolina.csv,US,North Carolina
+"US, North Dakota","North Dakota, US",North Dakota.csv,US,North Dakota
+"US, Northern Mariana Islands","Northern Mariana Islands, US",Northern Mariana Islands.csv,US,Northern Mariana Islands
+"US, Ohio","Ohio, US",Ohio.csv,US,Ohio
+"US, Oklahoma","Oklahoma, US",Oklahoma.csv,US,Oklahoma
+"US, Oregon","Oregon, US",Oregon.csv,US,Oregon
+"US, Pennsylvania","Pennsylvania, US",Pennsylvania.csv,US,Pennsylvania
+"US, Puerto Rico","Puerto Rico, US",Puerto Rico.csv,US,Puerto Rico
+"US, Rhode Island","Rhode Island, US",Rhode Island.csv,US,Rhode Island
+"US, South Carolina","South Carolina, US",South Carolina.csv,US,South Carolina
+"US, South Dakota","South Dakota, US",South Dakota.csv,US,South Dakota
+"US, Tennessee","Tennessee, US",Tennessee.csv,US,Tennessee
+"US, Texas","Texas, US",Texas.csv,US,Texas
+"US, Utah","Utah, US",Utah.csv,US,Utah
+"US, Vermont","Vermont, US",Vermont.csv,US,Vermont
+"US, Virgin Islands","Virgin Islands, US",Virgin Islands.csv,US,Virgin Islands
+"US, Virginia","Virginia, US",Virginia.csv,US,Virginia
+"US, Washington","Washington, US",Washington.csv,US,Washington
+"US, West Virginia","West Virginia, US",West Virginia.csv,US,West Virginia
+"US, Wisconsin","Wisconsin, US",Wisconsin.csv,US,Wisconsin
+"US, Wyoming","Wyoming, US",Wyoming.csv,US,Wyoming

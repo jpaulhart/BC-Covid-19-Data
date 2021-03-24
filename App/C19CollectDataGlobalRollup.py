@@ -106,11 +106,14 @@ def processProvinceRollup(df):
         file_path = os.path.join(cd.CSV_DIRECTORY, file_name)
         dfx.to_csv(file_path, index=False)
 
+        combined_key = ', ' + dfx['Combined_Key'].values[0]
+        country_region = dfx['Country_Region'].values[0]
+        province_state = dfx['Province_State'].values[0]
         cd.file_index.append(
-            cd.file_index_entry(dfx['Combined_Key'].values[0],
+            cd.file_index_entry(combined_key,
                                 file_name,
-                                dfx['Country_Region'].values[0],
-                                dfx['Province_State'].values[0] 
+                                country_region,
+                                province_state 
             )
         )
         
