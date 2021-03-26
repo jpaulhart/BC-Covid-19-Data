@@ -33,6 +33,8 @@ COUNTRY_LOCATION = {
 def processProvinceRollup(df):
     
     # 6 Find countries with province data only and create a country rollup
+
+    logging.info('Processing country rollup')
     
     count = 0
     last_country = ''

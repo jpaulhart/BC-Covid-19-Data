@@ -20,6 +20,9 @@ import C19CollectDataMain as cd
 
 def writeWriteIndexCsv():
 
+
+    logging.info('Processing Index')
+
     index_file_name = cd.CSV_DIRECTORY + '/Index.csv'
 
     with open(index_file_name, mode='w') as index_csv_file:
