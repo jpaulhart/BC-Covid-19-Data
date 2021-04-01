@@ -92,10 +92,11 @@ def processUSDataframe():
         dfs['DeathsNew'] = dfs['DeathsNew'].astype(int)
         dfs['DeathsNewMean'] = dfs['DeathsNewMean'].astype(int)
 
-        file_name = dfs['Province_State'].values[0] + '.csv'
+        file_name = dfs['Province_State'].values[0] 
         file_name = file_name.replace(',', '')
         file_name = file_name.replace('*', '')
-        file_path = os.path.join(cd.CSV_DIRECTORY, file_name)
+        file_spec = file_name + '.csv'
+        file_path = os.path.join(cd.CSV_DIRECTORY, file_spec)
         dfs.to_csv(file_path, index=False)
 
         cd.file_index.append(

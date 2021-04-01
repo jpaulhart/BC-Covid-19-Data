@@ -102,10 +102,11 @@ def processProvinceRollup(df):
         dfx['DeathsNew'] = dfx['DeathsNew'].astype(int)
         dfx['DeathsNewMean'] = dfx['DeathsNewMean'].astype(int)
 
-        file_name = dfa['Country_Region'].values[0] + '.csv'
+        file_name = dfa['Country_Region'].values[0] 
         file_name = file_name.replace(',', '')
         file_name = file_name.replace('*', '')
-        file_path = os.path.join(cd.CSV_DIRECTORY, file_name)
+        file_spec = file_name + '.csv'
+        file_path = os.path.join(cd.CSV_DIRECTORY, file_spec)
         dfx.to_csv(file_path, index=False)
 
         combined_key = ', ' + dfx['Combined_Key'].values[0]

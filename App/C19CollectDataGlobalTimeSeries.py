@@ -101,14 +101,14 @@ def processGlobalDataframe():
         dfa['DeathsNew'] = dfa['DeathsNew'].astype(int)
         dfa['DeathsNewMean'] = dfa['DeathsNewMean'].astype(int)
 
-        file_name = dfa['Country_Region'].values[0] + '.csv'
+        file_name = dfa['Country_Region'].values[0]
         if dfa['Province_State'].values[0] == '':
             file_name = dfa['Country_Region'].values[0]
         else:
             file_name = dfa['Province_State'].values[0]
         file_name = file_name.replace(',', '')
         file_name = file_name.replace('*', '')
-        file_spec = file_name  + '.csv'
+        file_spec = file_name + '.csv'
         file_path = os.path.join(cd.CSV_DIRECTORY, file_spec)
         dfa.to_csv(file_path, index=False)
 
