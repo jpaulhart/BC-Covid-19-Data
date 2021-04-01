@@ -59,12 +59,18 @@ class file_index_entry():
     file_name = ''
     country = ''
     province = ''
+    latitude = ''
+    longitude = ''
+    population = ''
 
-    def __init__(self, combined_key, file_name, country, province):
+    def __init__(self, combined_key, file_name, country, province, latitude, longitude, population):
         self.combined_key = combined_key
         self.file_name = file_name
         self.country = country
         self.province = province
+        self.latitude = latitude
+        self.longitude = longitude
+        self.population = population
 
 file_index = []
 

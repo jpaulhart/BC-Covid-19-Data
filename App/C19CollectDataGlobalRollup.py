@@ -116,7 +116,10 @@ def processProvinceRollup(df):
             cd.file_index_entry(combined_key,
                                 file_name,
                                 country_region,
-                                province_state 
+                                province_state,
+                                lat,
+                                long,
+                                population 
             )
         )
         

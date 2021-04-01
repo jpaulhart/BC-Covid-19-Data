@@ -103,7 +103,10 @@ def processUSDataframe():
             cd.file_index_entry(dfs['Combined_Key'].values[0],
                                 file_name,
                                 dfs['Country_Region'].values[0],
-                                dfs['Province_State'].values[0] 
+                                dfs['Province_State'].values[0], 
+                                lat, 
+                                long, 
+                                population
             )
         )
 

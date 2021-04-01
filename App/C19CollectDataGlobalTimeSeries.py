@@ -115,7 +115,10 @@ def processGlobalDataframe():
         iEntry = cd.file_index_entry(dfa['Combined_Key'].values[0],
                                      file_name,
                                      dfa['Country_Region'].values[0],
-                                     dfa['Province_State'].values[0] 
+                                     dfa['Province_State'].values[0], 
+                                     dfa['Lat'].values[0],
+                                     dfa['Long'].values[0],
+                                     dfa['Population'].values[0] 
                                     )
 
         cd.file_index.append(iEntry)
