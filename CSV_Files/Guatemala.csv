@@ -433,3 +433,4 @@ Province_State,Country_Region,Lat,Long,Date,Confirmed,Deaths,Combined_Key,Popula
 ,Guatemala,15.7835,-90.2308,2021-03-28,193377,6802,", Guatemala",17915568.0,327,8,780,14
 ,Guatemala,15.7835,-90.2308,2021-03-29,193556,6809,", Guatemala",17915568.0,179,7,776,14
 ,Guatemala,15.7835,-90.2308,2021-03-30,193834,6823,", Guatemala",17915568.0,278,14,681,13
+,Guatemala,15.7835,-90.2308,2021-03-31,193834,6840,", Guatemala",17915568.0,0,17,518,13
