@@ -435,3 +435,4 @@ Province_State,Country_Region,Lat,Long,Date,Confirmed,Deaths,Combined_Key,Popula
 ,Kyrgyzstan,41.20438,74.766098,2021-03-30,88276,1498,", Kyrgyzstan",6524195.0,113,1,89,0
 ,Kyrgyzstan,41.20438,74.766098,2021-03-31,88538,1500,", Kyrgyzstan",6524195.0,262,2,111,0
 ,Kyrgyzstan,41.20438,74.766098,2021-04-01,88538,1500,", Kyrgyzstan",6524195.0,0,0,111,0
+,Kyrgyzstan,41.20438,74.766098,2021-04-02,88700,1500,", Kyrgyzstan",6524195.0,162,0,120,0
