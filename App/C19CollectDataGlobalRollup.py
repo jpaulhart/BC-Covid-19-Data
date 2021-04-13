@@ -77,7 +77,9 @@ def processProvinceRollup(df):
                 population = 0
                 logging.error(f'ERROR: Global Other No population for {key}')
             confirmed    = row['Confirmed'].values[0]   
-            deaths       = row['Deaths'].values[0]   
+            deaths       = row['Deaths'].values[0]
+            if deaths < 0:
+                print("Unlikely deaths count")   
             combined_key = key
             thisRow      = [province, country, lat, long, date, population, confirmed, deaths, combined_key]
             rows.append(thisRow)
@@ -91,7 +93,7 @@ def processProvinceRollup(df):
         #dfx['Long']             = lat_long[1]
         #dfx['Key']              = dfKey + ' / '
         dfx['ConfirmedNew'] = dfx['Confirmed'].diff()
-        dfx['DeathsNew'] = dfx['Deaths'].diff().diff()
+        dfx['DeathsNew'] = dfx['Deaths'].diff()
         dfx['ConfirmedNewMean'] = dfx['ConfirmedNew'].rolling(7).mean()
         dfx['DeathsNewMean'] = dfx['DeathsNew'].rolling(7).mean()
         #dfx['Population'] = 0
