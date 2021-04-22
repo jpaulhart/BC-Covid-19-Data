@@ -7,6 +7,7 @@ Angola,", Angola",Angola,Angola,,-11.2027,17.8739,32866272.0
 Antigua and Barbuda,", Antigua and Barbuda",Antigua and Barbuda,Antigua and Barbuda,,17.0608,-61.7964,97929.0
 Argentina,", Argentina",Argentina,Argentina,,-38.4161,-63.6167,45195774.0
 Armenia,", Armenia",Armenia,Armenia,,40.0691,45.0382,2963243.0
+Australia,", Australia",Australia,Australia,,-35.308056,149.124444,25499884
 "Australia, Australian Capital Territory","Australian Capital Territory, Australia",Australian Capital Territory,Australia,Australian Capital Territory,-35.4735,149.0124,429800.0
 "Australia, New South Wales","New South Wales, Australia",New South Wales,Australia,New South Wales,-33.8688,151.2093,8157700.0
 "Australia, Northern Territory","Northern Territory, Australia",Northern Territory,Australia,Northern Territory,-12.4634,130.8456,245400.0
@@ -38,6 +39,7 @@ Burundi,", Burundi",Burundi,Burundi,,-3.3731,29.9189,11890784.0
 Cabo Verde,", Cabo Verde",Cabo Verde,Cabo Verde,,16.5388,-23.0418,555987.0
 Cambodia,", Cambodia",Cambodia,Cambodia,,11.55,104.9167,16718965.0
 Cameroon,", Cameroon",Cameroon,Cameroon,,3.848,11.5021,26545863.0
+Canada,", Canada",Canada,Canada,,45.4,-75.666667,37742154
 "Canada, Alberta","Alberta, Canada",Alberta,Canada,Alberta,53.9333,-116.5765,4345737.0
 "Canada, British Columbia","British Columbia, Canada",British Columbia,Canada,British Columbia,53.7267,-127.6476,5020302.0
 "Canada, Diamond Princess","Diamond Princess, Canada",Diamond Princess,Canada,Diamond Princess,0.0,0.0,0.0
@@ -57,6 +59,7 @@ Cameroon,", Cameroon",Cameroon,Cameroon,,3.848,11.5021,26545863.0
 Central African Republic,", Central African Republic",Central African Republic,Central African Republic,,6.6111,20.9394,4829767.0
 Chad,", Chad",Chad,Chad,,15.4542,18.7322,16425864.0
 Chile,", Chile",Chile,Chile,,-35.6751,-71.543,19116201.0
+China,", China",China,China,,39.916667, 116.383333,1439323776
 "China, Anhui","Anhui, China",Anhui,China,Anhui,31.8257,117.2264,59500510.0
 "China, Beijing","Beijing, China",Beijing,China,Beijing,40.1824,116.4142,19612368.0
 "China, Chongqing","Chongqing, China",Chongqing,China,Chongqing,30.0572,107.874,28846170.0
@@ -249,33 +252,6 @@ Trinidad and Tobago,", Trinidad and Tobago",Trinidad and Tobago,Trinidad and Tob
 Tunisia,", Tunisia",Tunisia,Tunisia,,33.886917,9.537499,11818619.0
 Turkey,", Turkey",Turkey,Turkey,,38.9637,35.2433,84339067.0
 US,", US",US,US,,40.0,-100.0,331002651.0
-Uganda,", Uganda",Uganda,Uganda,,1.373333,32.290275,45741007.0
-Ukraine,", Ukraine",Ukraine,Ukraine,,48.3794,31.1656,43733762.0
-United Arab Emirates,", United Arab Emirates",United Arab Emirates,United Arab Emirates,,23.424076,53.847818,9890402.0
-United Kingdom,", United Kingdom",United Kingdom,United Kingdom,,55.3781,-3.436,67886011.0
-"United Kingdom, Anguilla","Anguilla, United Kingdom",Anguilla,United Kingdom,Anguilla,18.2206,-63.0686,15003.0
-"United Kingdom, Bermuda","Bermuda, United Kingdom",Bermuda,United Kingdom,Bermuda,32.3078,-64.7505,62278.0
-"United Kingdom, British Virgin Islands","British Virgin Islands, United Kingdom",British Virgin Islands,United Kingdom,British Virgin Islands,18.4207,-64.64,30231.0
-"United Kingdom, Cayman Islands","Cayman Islands, United Kingdom",Cayman Islands,United Kingdom,Cayman Islands,19.3133,-81.2546,65722.0
-"United Kingdom, Channel Islands","Channel Islands, United Kingdom",Channel Islands,United Kingdom,Channel Islands,49.3723,-2.3644,173863.0
-"United Kingdom, Falkland Islands (Malvinas)","Falkland Islands (Malvinas), United Kingdom",Falkland Islands (Malvinas),United Kingdom,Falkland Islands (Malvinas),-51.7963,-59.5236,3480.0
-"United Kingdom, Gibraltar","Gibraltar, United Kingdom",Gibraltar,United Kingdom,Gibraltar,36.1408,-5.3536,33691.0
-"United Kingdom, Isle of Man","Isle of Man, United Kingdom",Isle of Man,United Kingdom,Isle of Man,54.2361,-4.5481,85033.0
-"United Kingdom, Montserrat","Montserrat, United Kingdom",Montserrat,United Kingdom,Montserrat,16.742498,-62.187366,4992.0
-"United Kingdom, Saint Helena Ascension and Tristan da Cunha","Saint Helena Ascension and Tristan da Cunha, United Kingdom",Saint Helena Ascension and Tristan da Cunha,United Kingdom,Saint Helena Ascension and Tristan da Cunha,-7.9467,-14.3559,0.0
-"United Kingdom, Turks and Caicos Islands","Turks and Caicos Islands, United Kingdom",Turks and Caicos Islands,United Kingdom,Turks and Caicos Islands,21.694,-71.7979,38717.0
-Uruguay,", Uruguay",Uruguay,Uruguay,,-32.5228,-55.7658,3473730.0
-Uzbekistan,", Uzbekistan",Uzbekistan,Uzbekistan,,41.377491,64.585262,33469203.0
-Vanuatu,", Vanuatu",Vanuatu,Vanuatu,,-15.3767,166.9592,307145.0
-Venezuela,", Venezuela",Venezuela,Venezuela,,6.4238,-66.5897,28435940.0
-Vietnam,", Vietnam",Vietnam,Vietnam,,14.058324,108.277199,97338579.0
-West Bank and Gaza,", West Bank and Gaza",West Bank and Gaza,West Bank and Gaza,,31.9522,35.2332,4817000.0
-Yemen,", Yemen",Yemen,Yemen,,15.552727,48.516388,29825964.0
-Zambia,", Zambia",Zambia,Zambia,,-13.133897,27.849332,18383955.0
-Zimbabwe,", Zimbabwe",Zimbabwe,Zimbabwe,,-19.015438,29.154857,14862924.0
-Australia,", Australia",Australia,Australia,,-35.308056,149.124444,25499884
-Canada,", Canada",Canada,Canada,,45.4,-75.666667,37742154
-China,", China",China,China,,39.916667, 116.383333,1439323776
 "US, Alabama","Alabama, US",Alabama,US,Alabama,33.2588817,-86.8295337,333290464
 "US, Alaska","Alaska, US",Alaska,US,Alaska,64.4459613,-149.680909,333290464
 "US, American Samoa","American Samoa, US",American Samoa,US,American Samoa,-14.289304,-170.692511,333290464
@@ -334,3 +310,27 @@ China,", China",China,China,,39.916667, 116.383333,1439323776
 "US, West Virginia","West Virginia, US",West Virginia,US,West Virginia,38.4758406,-80.8408415,333290464
 "US, Wisconsin","Wisconsin, US",Wisconsin,US,Wisconsin,44.4308975,-89.6884637,333290464
 "US, Wyoming","Wyoming, US",Wyoming,US,Wyoming,43.1700264,-107.568534,333290464
+Uganda,", Uganda",Uganda,Uganda,,1.373333,32.290275,45741007.0
+Ukraine,", Ukraine",Ukraine,Ukraine,,48.3794,31.1656,43733762.0
+United Arab Emirates,", United Arab Emirates",United Arab Emirates,United Arab Emirates,,23.424076,53.847818,9890402.0
+United Kingdom,", United Kingdom",United Kingdom,United Kingdom,,55.3781,-3.436,67886011.0
+"United Kingdom, Anguilla","Anguilla, United Kingdom",Anguilla,United Kingdom,Anguilla,18.2206,-63.0686,15003.0
+"United Kingdom, Bermuda","Bermuda, United Kingdom",Bermuda,United Kingdom,Bermuda,32.3078,-64.7505,62278.0
+"United Kingdom, British Virgin Islands","British Virgin Islands, United Kingdom",British Virgin Islands,United Kingdom,British Virgin Islands,18.4207,-64.64,30231.0
+"United Kingdom, Cayman Islands","Cayman Islands, United Kingdom",Cayman Islands,United Kingdom,Cayman Islands,19.3133,-81.2546,65722.0
+"United Kingdom, Channel Islands","Channel Islands, United Kingdom",Channel Islands,United Kingdom,Channel Islands,49.3723,-2.3644,173863.0
+"United Kingdom, Falkland Islands (Malvinas)","Falkland Islands (Malvinas), United Kingdom",Falkland Islands (Malvinas),United Kingdom,Falkland Islands (Malvinas),-51.7963,-59.5236,3480.0
+"United Kingdom, Gibraltar","Gibraltar, United Kingdom",Gibraltar,United Kingdom,Gibraltar,36.1408,-5.3536,33691.0
+"United Kingdom, Isle of Man","Isle of Man, United Kingdom",Isle of Man,United Kingdom,Isle of Man,54.2361,-4.5481,85033.0
+"United Kingdom, Montserrat","Montserrat, United Kingdom",Montserrat,United Kingdom,Montserrat,16.742498,-62.187366,4992.0
+"United Kingdom, Saint Helena Ascension and Tristan da Cunha","Saint Helena Ascension and Tristan da Cunha, United Kingdom",Saint Helena Ascension and Tristan da Cunha,United Kingdom,Saint Helena Ascension and Tristan da Cunha,-7.9467,-14.3559,0.0
+"United Kingdom, Turks and Caicos Islands","Turks and Caicos Islands, United Kingdom",Turks and Caicos Islands,United Kingdom,Turks and Caicos Islands,21.694,-71.7979,38717.0
+Uruguay,", Uruguay",Uruguay,Uruguay,,-32.5228,-55.7658,3473730.0
+Uzbekistan,", Uzbekistan",Uzbekistan,Uzbekistan,,41.377491,64.585262,33469203.0
+Vanuatu,", Vanuatu",Vanuatu,Vanuatu,,-15.3767,166.9592,307145.0
+Venezuela,", Venezuela",Venezuela,Venezuela,,6.4238,-66.5897,28435940.0
+Vietnam,", Vietnam",Vietnam,Vietnam,,14.058324,108.277199,97338579.0
+West Bank and Gaza,", West Bank and Gaza",West Bank and Gaza,West Bank and Gaza,,31.9522,35.2332,4817000.0
+Yemen,", Yemen",Yemen,Yemen,,15.552727,48.516388,29825964.0
+Zambia,", Zambia",Zambia,Zambia,,-13.133897,27.849332,18383955.0
+Zimbabwe,", Zimbabwe",Zimbabwe,Zimbabwe,,-19.015438,29.154857,14862924.0

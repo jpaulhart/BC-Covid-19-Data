@@ -25,12 +25,16 @@ def writeWriteIndexCsv():
 
     index_file_name = cd.CSV_DIRECTORY + '/Index.csv'
 
+    for entry in cd.file_index:
+        entry.display_key = entry.country
+        if entry.province != "":
+            entry.display_key += f", {entry.province}"
+
+    cd.file_index.sort(key=lambda x: x.display_key, reverse=False)
+
     with open(index_file_name, mode='w') as index_csv_file:
         index_csv_writer = csv.writer(index_csv_file, delimiter=',', quotechar='"', quoting=csv.QUOTE_MINIMAL)
 
         index_csv_writer.writerow(['display_key', 'combined_key', 'file_name', 'country', 'province','latitude','longitude','population'])    
         for entry in cd.file_index:
-            display_key = entry.country
-            if entry.province != "":
-                display_key += f", {entry.province}"
-            index_csv_writer.writerow([display_key, entry.combined_key, entry.file_name, entry.country, entry.province, entry.latitude, entry.longitude, entry.population])
+            index_csv_writer.writerow([entry.display_key, entry.combined_key, entry.file_name, entry.country, entry.province, entry.latitude, entry.longitude, entry.population])
