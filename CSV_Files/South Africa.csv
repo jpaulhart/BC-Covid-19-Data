@@ -471,3 +471,4 @@ Province_State,Country_Region,Lat,Long,Date,Confirmed,Deaths,Combined_Key,Popula
 ,South Africa,-30.5595,22.9375,2021-05-05,1588221,54557,", South Africa",59308690.0,2073,46,1395,38
 ,South Africa,-30.5595,22.9375,2021-05-06,1590370,54620,", South Africa",59308690.0,2149,63,1547,41
 ,South Africa,-30.5595,22.9375,2021-05-07,1592626,54687,", South Africa",59308690.0,2256,67,1630,48
+,South Africa,-30.5595,22.9375,2021-05-08,1592626,54687,", South Africa",59308690.0,0,0,1397,40
