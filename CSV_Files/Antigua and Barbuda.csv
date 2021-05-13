@@ -475,3 +475,4 @@ Province_State,Country_Region,Lat,Long,Date,Confirmed,Deaths,Combined_Key,Popula
 ,Antigua and Barbuda,17.0608,-61.7964,2021-05-09,1231,32,", Antigua and Barbuda",97929.0,-1,0,0,0
 ,Antigua and Barbuda,17.0608,-61.7964,2021-05-10,1237,32,", Antigua and Barbuda",97929.0,6,0,0,0
 ,Antigua and Barbuda,17.0608,-61.7964,2021-05-11,1238,32,", Antigua and Barbuda",97929.0,1,0,0,0
+,Antigua and Barbuda,17.0608,-61.7964,2021-05-12,1240,32,", Antigua and Barbuda",97929.0,2,0,1,0
