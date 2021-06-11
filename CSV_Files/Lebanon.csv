@@ -504,3 +504,4 @@ Province_State,Country_Region,Lat,Long,Date,Confirmed,Deaths,Combined_Key,Popula
 ,Lebanon,33.8547,35.8623,2021-06-07,541628,7769,", Lebanon",6825445.0,71,6,177,5
 ,Lebanon,33.8547,35.8623,2021-06-08,541801,7774,", Lebanon",6825445.0,173,5,167,5
 ,Lebanon,33.8547,35.8623,2021-06-09,541940,7780,", Lebanon",6825445.0,139,6,156,5
+,Lebanon,33.8547,35.8623,2021-06-10,541940,7780,", Lebanon",6825445.0,0,0,133,4
