@@ -506,3 +506,4 @@ Province_State,Country_Region,Lat,Long,Date,Confirmed,Deaths,Combined_Key,Popula
 ,Monaco,43.7333,7.4167,2021-06-09,2514,33,", Monaco",39242.0,3,0,0,0
 ,Monaco,43.7333,7.4167,2021-06-10,2516,33,", Monaco",39242.0,2,0,1,0
 ,Monaco,43.7333,7.4167,2021-06-11,2520,33,", Monaco",39242.0,4,0,1,0
+,Monaco,43.7333,7.4167,2021-06-12,2524,33,", Monaco",39242.0,4,0,2,0
