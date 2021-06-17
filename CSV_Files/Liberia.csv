@@ -510,3 +510,4 @@ Province_State,Country_Region,Lat,Long,Date,Confirmed,Deaths,Combined_Key,Popula
 ,Liberia,6.428055,-9.429499,2021-06-13,2535,93,", Liberia",5057681.0,51,0,40,1
 ,Liberia,6.428055,-9.429499,2021-06-14,2575,94,", Liberia",5057681.0,40,1,40,0
 ,Liberia,6.428055,-9.429499,2021-06-15,2575,94,", Liberia",5057681.0,0,0,40,0
+,Liberia,6.428055,-9.429499,2021-06-16,2729,95,", Liberia",5057681.0,154,1,49,1
