@@ -517,3 +517,4 @@ Province_State,Country_Region,Lat,Long,Date,Confirmed,Deaths,Combined_Key,Popula
 ,Finland,61.92411,25.748151,2021-06-20,94334,967,", Finland",5540720.0,65,0,73,0
 ,Finland,61.92411,25.748151,2021-06-21,94379,967,", Finland",5540720.0,45,0,75,0
 ,Finland,61.92411,25.748151,2021-06-22,94489,967,", Finland",5540720.0,110,0,80,0
+,Finland,61.92411,25.748151,2021-06-23,94596,969,", Finland",5540720.0,107,2,81,0
