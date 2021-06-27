@@ -520,3 +520,4 @@ Province_State,Country_Region,Lat,Long,Date,Confirmed,Deaths,Combined_Key,Popula
 ,Singapore,1.2833,103.8333,2021-06-23,62470,35,", Singapore",5850342.0,22,0,18,0
 ,Singapore,1.2833,103.8333,2021-06-24,62493,35,", Singapore",5850342.0,23,0,18,0
 ,Singapore,1.2833,103.8333,2021-06-25,62513,35,", Singapore",5850342.0,20,0,18,0
+,Singapore,1.2833,103.8333,2021-06-26,62530,36,", Singapore",5850342.0,17,1,18,0
