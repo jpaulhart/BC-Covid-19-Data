@@ -524,3 +524,4 @@ Province_State,Country_Region,Lat,Long,Date,Confirmed,Deaths,Combined_Key,Popula
 ,Armenia,40.0691,45.0382,2021-06-27,224797,4508,", Armenia",2963243.0,69,2,81,1
 ,Armenia,40.0691,45.0382,2021-06-28,224851,4510,", Armenia",2963243.0,54,2,85,1
 ,Armenia,40.0691,45.0382,2021-06-29,224967,4514,", Armenia",2963243.0,116,4,91,1
+,Armenia,40.0691,45.0382,2021-06-30,225095,4514,", Armenia",2963243.0,128,0,95,1

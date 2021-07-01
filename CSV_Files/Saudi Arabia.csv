@@ -524,3 +524,4 @@ Province_State,Country_Region,Lat,Long,Date,Confirmed,Deaths,Combined_Key,Popula
 ,Saudi Arabia,23.885942,45.079162,2021-06-27,483221,7775,", Saudi Arabia",34813871.0,1218,15,1290,14
 ,Saudi Arabia,23.885942,45.079162,2021-06-28,484539,7789,", Saudi Arabia",34813871.0,1318,14,1305,14
 ,Saudi Arabia,23.885942,45.079162,2021-06-29,486106,7804,", Saudi Arabia",34813871.0,1567,15,1317,14
+,Saudi Arabia,23.885942,45.079162,2021-06-30,486106,7804,", Saudi Arabia",34813871.0,0,0,1138,12
