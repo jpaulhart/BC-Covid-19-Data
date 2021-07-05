@@ -528,3 +528,4 @@ Province_State,Country_Region,Lat,Long,Date,Confirmed,Deaths,Combined_Key,Popula
 ,Bulgaria,42.7339,25.4858,2021-07-01,421902,18067,", Bulgaria",6948445.0,73,6,71,6
 ,Bulgaria,42.7339,25.4858,2021-07-02,421983,18083,", Bulgaria",6948445.0,81,16,70,8
 ,Bulgaria,42.7339,25.4858,2021-07-03,422034,18084,", Bulgaria",6948445.0,51,1,74,8
+,Bulgaria,42.7339,25.4858,2021-07-04,422034,18084,", Bulgaria",6948445.0,0,0,71,8
