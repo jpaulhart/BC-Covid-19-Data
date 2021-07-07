@@ -530,3 +530,4 @@ Province_State,Country_Region,Lat,Long,Date,Confirmed,Deaths,Combined_Key,Popula
 ,Austria,47.5162,14.5501,2021-07-03,650662,10709,", Austria",9006398.0,93,0,67,1
 ,Austria,47.5162,14.5501,2021-07-04,650737,10709,", Austria",9006398.0,75,0,68,1
 ,Austria,47.5162,14.5501,2021-07-05,650817,10713,", Austria",9006398.0,80,4,70,1
+,Austria,47.5162,14.5501,2021-07-06,650901,10718,", Austria",9006398.0,84,5,78,2
