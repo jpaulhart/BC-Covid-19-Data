@@ -534,3 +534,4 @@ Province_State,Country_Region,Lat,Long,Date,Population,Confirmed,Deaths,Combined
 ,Australia,-35.308056,149.124444,2021-07-07,25499884,30903,910,Australia,42,0,37,0
 ,Australia,-35.308056,149.124444,2021-07-08,25499884,30951,910,Australia,48,0,38,0
 ,Australia,-35.308056,149.124444,2021-07-09,25499884,31015,910,Australia,64,0,40,0
+,Australia,-35.308056,149.124444,2021-07-10,25499884,31100,911,Australia,85,1,49,0
