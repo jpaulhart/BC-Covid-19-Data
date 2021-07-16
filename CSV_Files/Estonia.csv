@@ -539,3 +539,4 @@ Province_State,Country_Region,Lat,Long,Date,Confirmed,Deaths,Combined_Key,Popula
 ,Estonia,58.5953,25.0136,2021-07-12,131508,1270,", Estonia",1326535.0,21,0,43,0
 ,Estonia,58.5953,25.0136,2021-07-13,131562,1270,", Estonia",1326535.0,54,0,43,0
 ,Estonia,58.5953,25.0136,2021-07-14,131618,1270,", Estonia",1326535.0,56,0,45,0
+,Estonia,58.5953,25.0136,2021-07-15,131681,1271,", Estonia",1326535.0,63,1,46,0
