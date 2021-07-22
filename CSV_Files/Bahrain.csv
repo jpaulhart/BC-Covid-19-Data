@@ -545,3 +545,4 @@ Province_State,Country_Region,Lat,Long,Date,Confirmed,Deaths,Combined_Key,Popula
 ,Bahrain,26.0275,50.55,2021-07-18,267882,1380,", Bahrain",1701575.0,86,0,95,0
 ,Bahrain,26.0275,50.55,2021-07-19,267949,1380,", Bahrain",1701575.0,67,0,89,0
 ,Bahrain,26.0275,50.55,2021-07-20,268027,1380,", Bahrain",1701575.0,78,0,89,0
+,Bahrain,26.0275,50.55,2021-07-21,268092,1381,", Bahrain",1701575.0,65,1,83,0
