@@ -548,3 +548,4 @@ Province_State,Country_Region,Lat,Long,Date,Confirmed,Deaths,Combined_Key,Popula
 ,Jamaica,18.1096,-77.2975,2021-07-21,51408,1163,", Jamaica",2961167.0,126,5,80,4
 ,Jamaica,18.1096,-77.2975,2021-07-22,51542,1167,", Jamaica",2961167.0,134,4,89,4
 ,Jamaica,18.1096,-77.2975,2021-07-23,51686,1168,", Jamaica",2961167.0,144,1,100,4
+,Jamaica,18.1096,-77.2975,2021-07-24,51686,1168,", Jamaica",2961167.0,0,0,90,2
