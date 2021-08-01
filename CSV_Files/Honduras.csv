@@ -555,3 +555,4 @@ Province_State,Country_Region,Lat,Long,Date,Confirmed,Deaths,Combined_Key,Popula
 ,Honduras,15.2,-86.2419,2021-07-28,292969,7758,", Honduras",9904607.0,1282,45,1254,31
 ,Honduras,15.2,-86.2419,2021-07-29,294561,7793,", Honduras",9904607.0,1592,35,1312,33
 ,Honduras,15.2,-86.2419,2021-07-30,297111,7834,", Honduras",9904607.0,2550,41,1496,34
+,Honduras,15.2,-86.2419,2021-07-31,297111,7834,", Honduras",9904607.0,0,0,1496,34
