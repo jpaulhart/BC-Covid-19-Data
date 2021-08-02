@@ -556,3 +556,4 @@ Province_State,Country_Region,Lat,Long,Date,Confirmed,Deaths,Combined_Key,Popula
 ,Denmark,56.2639,9.5018,2021-07-29,314983,2548,", Denmark",5792202.0,848,1,794,0
 ,Denmark,56.2639,9.5018,2021-07-30,316068,2548,", Denmark",5792202.0,1085,0,848,0
 ,Denmark,56.2639,9.5018,2021-07-31,316807,2549,", Denmark",5792202.0,739,1,847,1
+,Denmark,56.2639,9.5018,2021-08-01,317700,2549,", Denmark",5792202.0,893,0,882,1
