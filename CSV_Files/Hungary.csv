@@ -558,3 +558,4 @@ Province_State,Country_Region,Lat,Long,Date,Confirmed,Deaths,Combined_Key,Popula
 ,Hungary,47.1625,19.5033,2021-07-31,809491,30026,", Hungary",9660351.0,0,0,55,0
 ,Hungary,47.1625,19.5033,2021-08-01,809491,30026,", Hungary",9660351.0,0,0,55,0
 ,Hungary,47.1625,19.5033,2021-08-02,809646,30027,", Hungary",9660351.0,155,1,54,1
+,Hungary,47.1625,19.5033,2021-08-03,809672,30029,", Hungary",9660351.0,26,2,54,1
