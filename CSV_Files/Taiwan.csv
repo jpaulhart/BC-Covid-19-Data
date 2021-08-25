@@ -579,3 +579,4 @@ Province_State,Country_Region,Lat,Long,Date,Confirmed,Deaths,Combined_Key,Popula
 ,Taiwan,23.7,121.0,2021-08-21,15916,828,", Taiwan",23816775.0,10,1,10,1
 ,Taiwan,23.7,121.0,2021-08-22,15926,828,", Taiwan",23816775.0,10,0,10,1
 ,Taiwan,23.7,121.0,2021-08-23,15932,828,", Taiwan",23816775.0,6,0,10,1
+,Taiwan,23.7,121.0,2021-08-24,15938,829,", Taiwan",23816775.0,6,1,8,1
