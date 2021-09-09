@@ -594,3 +594,4 @@ Province_State,Country_Region,Lat,Long,Date,Confirmed,Deaths,Combined_Key,Popula
 ,Azerbaijan,40.1431,47.5769,2021-09-05,442872,5842,", Azerbaijan",10139177.0,3310,42,3553,41
 ,Azerbaijan,40.1431,47.5769,2021-09-06,445278,5879,", Azerbaijan",10139177.0,2406,37,3453,41
 ,Azerbaijan,40.1431,47.5769,2021-09-07,447725,5920,", Azerbaijan",10139177.0,2447,41,3262,40
+,Azerbaijan,40.1431,47.5769,2021-09-08,447725,5920,", Azerbaijan",10139177.0,0,0,2712,34
