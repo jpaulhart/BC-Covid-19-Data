@@ -609,3 +609,4 @@ Province_State,Country_Region,Lat,Long,Date,Confirmed,Deaths,Combined_Key,Popula
 ,Brunei,4.5353,114.7277,2021-09-20,5261,28,", Brunei",437479.0,214,2,134,1
 ,Brunei,4.5353,114.7277,2021-09-21,5385,29,", Brunei",437479.0,124,1,136,1
 ,Brunei,4.5353,114.7277,2021-09-22,5586,31,", Brunei",437479.0,201,2,145,1
+,Brunei,4.5353,114.7277,2021-09-23,5586,31,", Brunei",437479.0,0,0,130,1
