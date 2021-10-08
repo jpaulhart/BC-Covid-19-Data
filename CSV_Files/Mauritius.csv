@@ -623,3 +623,4 @@ Province_State,Country_Region,Lat,Long,Date,Confirmed,Deaths,Combined_Key,Popula
 ,Mauritius,-20.348404,57.552152,2021-10-04,15776,90,", Mauritius",1271768.0,81,6,55,1
 ,Mauritius,-20.348404,57.552152,2021-10-05,15776,100,", Mauritius",1271768.0,0,10,55,3
 ,Mauritius,-20.348404,57.552152,2021-10-06,16083,100,", Mauritius",1271768.0,307,0,68,2
+,Mauritius,-20.348404,57.552152,2021-10-07,16189,106,", Mauritius",1271768.0,106,6,70,3
