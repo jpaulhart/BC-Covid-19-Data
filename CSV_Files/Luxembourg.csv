@@ -635,3 +635,4 @@ Province_State,Country_Region,Lat,Long,Date,Confirmed,Deaths,Combined_Key,Popula
 ,Luxembourg,49.8153,6.1296,2021-10-16,79720,839,", Luxembourg",625978.0,0,0,100,0
 ,Luxembourg,49.8153,6.1296,2021-10-17,79720,839,", Luxembourg",625978.0,0,0,100,0
 ,Luxembourg,49.8153,6.1296,2021-10-18,79982,839,", Luxembourg",625978.0,262,0,112,0
+,Luxembourg,49.8153,6.1296,2021-10-19,80085,840,", Luxembourg",625978.0,103,1,112,0
