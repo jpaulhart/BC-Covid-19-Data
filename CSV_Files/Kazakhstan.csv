@@ -639,3 +639,4 @@ Province_State,Country_Region,Lat,Long,Date,Confirmed,Deaths,Combined_Key,Popula
 ,Kazakhstan,48.0196,66.9237,2021-10-20,1001369,16794,", Kazakhstan",18776707.0,1995,28,1857,35
 ,Kazakhstan,48.0196,66.9237,2021-10-21,1003262,16835,", Kazakhstan",18776707.0,1893,41,1828,36
 ,Kazakhstan,48.0196,66.9237,2021-10-22,1005130,16871,", Kazakhstan",18776707.0,1868,36,1806,36
+,Kazakhstan,48.0196,66.9237,2021-10-23,1005130,16871,", Kazakhstan",18776707.0,0,0,1523,36
