@@ -640,3 +640,6 @@ Province_State,Country_Region,Lat,Long,Date,Confirmed,Deaths,Combined_Key,Popula
 ,Cote d'Ivoire,7.54,-5.5471,2021-10-21,61139,689,", Cote d'Ivoire",26378274.0,26,0,28,2
 ,Cote d'Ivoire,7.54,-5.5471,2021-10-22,61152,689,", Cote d'Ivoire",26378274.0,13,0,24,2
 ,Cote d'Ivoire,7.54,-5.5471,2021-10-23,61178,690,", Cote d'Ivoire",26378274.0,26,1,28,2
+,Cote d'Ivoire,7.54,-5.5471,2021-10-24,61178,690,", Cote d'Ivoire",26378274.0,0,0,20,1
+,Cote d'Ivoire,7.54,-5.5471,2021-10-25,61208,690,", Cote d'Ivoire",26378274.0,30,0,19,0
+,Cote d'Ivoire,7.54,-5.5471,2021-10-26,61221,691,", Cote d'Ivoire",26378274.0,13,1,18,0
