@@ -650,3 +650,4 @@ Province_State,Country_Region,Lat,Long,Date,Confirmed,Deaths,Combined_Key,Popula
 ,Uzbekistan,41.377491,64.585262,2021-10-31,185963,1323,", Uzbekistan",33469203.0,316,2,342,2
 ,Uzbekistan,41.377491,64.585262,2021-11-01,186244,1325,", Uzbekistan",33469203.0,281,2,330,2
 ,Uzbekistan,41.377491,64.585262,2021-11-02,186793,1329,", Uzbekistan",33469203.0,549,4,365,2
+,Uzbekistan,41.377491,64.585262,2021-11-03,186793,1329,", Uzbekistan",33469203.0,0,0,318,2
