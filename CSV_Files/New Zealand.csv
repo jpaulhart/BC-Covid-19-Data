@@ -651,3 +651,4 @@ Province_State,Country_Region,Lat,Long,Date,Confirmed,Deaths,Combined_Key,Popula
 ,New Zealand,-40.9006,174.886,2021-11-01,6723,28,", New Zealand",4822233.0,129,0,128,0
 ,New Zealand,-40.9006,174.886,2021-11-02,6832,28,", New Zealand",4822233.0,109,0,133,0
 ,New Zealand,-40.9006,174.886,2021-11-03,6972,28,", New Zealand",4822233.0,140,0,139,0
+,New Zealand,-40.9006,174.886,2021-11-04,7138,29,", New Zealand",4822233.0,166,1,144,0
