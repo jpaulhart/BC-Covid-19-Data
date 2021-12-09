@@ -685,3 +685,4 @@ Province_State,Country_Region,Lat,Long,Date,Confirmed,Deaths,Combined_Key,Popula
 ,Dominica,15.415,-61.371,2021-12-05,6120,39,", Dominica",71986.0,0,0,23,0
 ,Dominica,15.415,-61.371,2021-12-06,6086,42,", Dominica",71986.0,-34,3,18,0
 ,Dominica,15.415,-61.371,2021-12-07,6086,42,", Dominica",71986.0,0,0,8,0
+,Dominica,15.415,-61.371,2021-12-08,6176,42,", Dominica",71986.0,90,0,21,0
