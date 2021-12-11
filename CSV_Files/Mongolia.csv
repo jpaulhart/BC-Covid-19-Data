@@ -687,3 +687,4 @@ Province_State,Country_Region,Lat,Long,Date,Confirmed,Deaths,Combined_Key,Popula
 ,Mongolia,46.8625,103.8467,2021-12-07,383978,2020,", Mongolia",3278290.0,296,3,270,2
 ,Mongolia,46.8625,103.8467,2021-12-08,384288,2023,", Mongolia",3278290.0,310,3,252,2
 ,Mongolia,46.8625,103.8467,2021-12-09,384912,2028,", Mongolia",3278290.0,624,5,313,2
+,Mongolia,46.8625,103.8467,2021-12-10,384912,2028,", Mongolia",3278290.0,0,0,242,2
