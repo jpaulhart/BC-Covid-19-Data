@@ -692,3 +692,4 @@ Province_State,Country_Region,Lat,Long,Date,Confirmed,Deaths,Combined_Key,Popula
 ,El Salvador,13.7942,-88.8965,2021-12-12,121127,3795,", El Salvador",6486205.0,1324,2,189,1
 ,El Salvador,13.7942,-88.8965,2021-12-13,121200,3797,", El Salvador",6486205.0,73,2,199,1
 ,El Salvador,13.7942,-88.8965,2021-12-14,121267,3800,", El Salvador",6486205.0,67,3,209,1
+,El Salvador,13.7942,-88.8965,2021-12-15,121267,3800,", El Salvador",6486205.0,0,0,209,1
