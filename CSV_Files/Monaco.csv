@@ -698,3 +698,4 @@ Province_State,Country_Region,Lat,Long,Date,Confirmed,Deaths,Combined_Key,Popula
 ,Monaco,43.7333,7.4167,2021-12-18,4386,36,", Monaco",39242.0,47,0,41,0
 ,Monaco,43.7333,7.4167,2021-12-19,4406,37,", Monaco",39242.0,20,1,44,0
 ,Monaco,43.7333,7.4167,2021-12-20,4406,37,", Monaco",39242.0,0,0,41,0
+,Monaco,43.7333,7.4167,2021-12-21,4485,37,", Monaco",39242.0,79,0,53,0
