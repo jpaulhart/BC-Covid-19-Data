@@ -713,3 +713,4 @@ Province_State,Country_Region,Lat,Long,Date,Confirmed,Deaths,Combined_Key,Popula
 ,Nicaragua,12.865416,-85.207229,2022-01-02,17487,217,", Nicaragua",6624554.0,0,0,6,0
 ,Nicaragua,12.865416,-85.207229,2022-01-03,17487,217,", Nicaragua",6624554.0,0,0,6,0
 ,Nicaragua,12.865416,-85.207229,2022-01-04,17526,217,", Nicaragua",6624554.0,39,0,5,0
+,Nicaragua,12.865416,-85.207229,2022-01-05,17526,218,", Nicaragua",6624554.0,0,1,5,0
