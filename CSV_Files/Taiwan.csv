@@ -721,3 +721,4 @@ Province_State,Country_Region,Lat,Long,Date,Confirmed,Deaths,Combined_Key,Popula
 ,Taiwan,23.7,121.0,2022-01-10,17394,850,", Taiwan",23816775.0,32,0,42,0
 ,Taiwan,23.7,121.0,2022-01-11,17463,850,", Taiwan",23816775.0,69,0,47,0
 ,Taiwan,23.7,121.0,2022-01-12,17559,850,", Taiwan",23816775.0,96,0,57,0
+,Taiwan,23.7,121.0,2022-01-13,17624,851,", Taiwan",23816775.0,65,1,60,0
