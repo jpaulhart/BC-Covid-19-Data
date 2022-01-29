@@ -25,6 +25,7 @@ import C19CollectDataWriteIndexCsv as wcs
 
 BASE_DIRECTORY  = '/Users/paulhart/GitHubWork/BC-Covid-19-Data/'
 CSV_URL         = 'https://raw.githubusercontent.com/CSSEGISandData/'
+# https://raw.githubusercontent.com/CSSEGISandData/COVID-19/master/csse_covid_19_data/csse_covid_19_time_series/time_series_covid19_confirmed_global.csv
 #                  https://raw.githubusercontent.com/CSSEGISandData/
 #                                      COVID-19/master/csse_covid_19_data/csse_covid_19_time_series/time_series_covid19_confirmed_global.csv
 #                  https://raw.githubusercontent.com/CSSEGISandData/

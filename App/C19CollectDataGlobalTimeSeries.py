@@ -21,7 +21,7 @@ global global_new_keys
 
 #global file_index
 #global file_index_entry
-
+   
 # ----------------------------------------------------------------------------
 # Processing global dataframe
 # ----------------------------------------------------------------------------
@@ -66,6 +66,8 @@ def processGlobalDataframe():
     # df['DeathsNewMean'] = df['DeathsNew'].rolling(7).mean()
     # df['Population'] = 0
     # #df.drop(df.index[[0,1,2,3,4,5,6]])
+
+    df.to_csv('/Users/paulhart/Downloads/C19.csv', encoding='utf-8', index=False)
 
     global_keys = df.Combined_Key.unique()
     for key in global_keys:
