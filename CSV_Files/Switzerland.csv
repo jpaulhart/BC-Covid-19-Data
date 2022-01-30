@@ -737,3 +737,4 @@ Province_State,Country_Region,Lat,Long,Date,Confirmed,Deaths,Combined_Key,Popula
 ,Switzerland,46.8182,8.2275,2022-01-26,2046465,12649,", Switzerland",8654622.0,43203,14,34991,15
 ,Switzerland,46.8182,8.2275,2022-01-27,2091306,12666,", Switzerland",8654622.0,44841,17,35712,13
 ,Switzerland,46.8182,8.2275,2022-01-28,2131077,12679,", Switzerland",8654622.0,39771,13,35965,14
+,Switzerland,46.8182,8.2275,2022-01-29,2131077,12680,", Switzerland",8654622.0,0,1,35965,14
