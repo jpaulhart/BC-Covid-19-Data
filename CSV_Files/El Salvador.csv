@@ -740,3 +740,4 @@ Province_State,Country_Region,Lat,Long,Date,Confirmed,Deaths,Combined_Key,Popula
 ,El Salvador,13.7942,-88.8965,2022-01-29,133262,3884,", El Salvador",6486205.0,6250,7,892,4
 ,El Salvador,13.7942,-88.8965,2022-01-30,134155,3891,", El Salvador",6486205.0,893,7,1020,5
 ,El Salvador,13.7942,-88.8965,2022-01-31,135109,3899,", El Salvador",6486205.0,954,8,1156,6
+,El Salvador,13.7942,-88.8965,2022-02-01,135109,3908,", El Salvador",6486205.0,0,9,1156,6
