@@ -743,3 +743,4 @@ Province_State,Country_Region,Lat,Long,Date,Confirmed,Deaths,Combined_Key,Popula
 ,Saint Lucia,13.9094,-60.9789,2022-02-01,20942,328,", Saint Lucia",183627.0,0,0,139,0
 ,Saint Lucia,13.9094,-60.9789,2022-02-02,21081,333,", Saint Lucia",183627.0,139,5,127,1
 ,Saint Lucia,13.9094,-60.9789,2022-02-03,21399,333,", Saint Lucia",183627.0,318,0,140,1
+,Saint Lucia,13.9094,-60.9789,2022-02-04,21399,333,", Saint Lucia",183627.0,0,0,140,1
