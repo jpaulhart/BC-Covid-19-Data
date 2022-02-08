@@ -34,7 +34,7 @@ echo -e $(date) "End C19 Collect Data complete ---------------------------------
 echo -e $(date) "Start C19 Collect Data (2)) -------------------------------------------"
 cd /Users/paulhart/Dropbox/Covid-19/C19DataDownload
 
-echo -e $(date) 'Creating csv data'
+echo -e $(date) 'Creating json data'
 /Users/paulhart/Dropbox/Covid-19/C19DataDownload/DerivedData/C19DataDownload/Build/Products/Debug/C19DataDownload /Users/paulhart/Dropbox/Covid-19/C19DataDownload/C19DataDownload/LocationData
 
 echo 
@@ -45,6 +45,7 @@ echo
 
 echo 
 echo -e $(date) "Push files to Github"
+echo 
 git push -u origin main
 
 echo -e $(date) "End C19 Collect Data complete (2) -------------------------------------------"
