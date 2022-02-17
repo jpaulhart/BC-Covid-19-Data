@@ -67,7 +67,7 @@ def processGlobalDataframe():
     # df['Population'] = 0
     # #df.drop(df.index[[0,1,2,3,4,5,6]])
 
-    df.to_csv('/Users/paulhart/Downloads/C19.csv', encoding='utf-8', index=False)
+    # df.to_csv('/Users/paulhart/Downloads/C19.csv', encoding='utf-8', index=False)
 
     global_keys = df.Combined_Key.unique()
     for key in global_keys:

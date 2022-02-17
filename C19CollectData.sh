@@ -30,7 +30,7 @@ git push -u origin main
 
 echo
 echo -e $(date) "End C19 Collect Data complete -------------------------------------------"
-
+y
 echo -e $(date) "Start C19 Collect Data (2)) -------------------------------------------"
 echo -e
 cd /Users/paulhart/Dropbox/Covid-19/C19DataDownload

@@ -753,3 +753,6 @@ Province_State,Country_Region,Lat,Long,Date,Confirmed,Deaths,Combined_Key,Popula
 ,Saint Vincent and the Grenadines,12.9843,-61.2872,2022-02-11,8144,101,", Saint Vincent and the Grenadines",110940.0,0,0,15,0
 ,Saint Vincent and the Grenadines,12.9843,-61.2872,2022-02-12,8144,102,", Saint Vincent and the Grenadines",110940.0,0,1,15,0
 ,Saint Vincent and the Grenadines,12.9843,-61.2872,2022-02-13,8144,102,", Saint Vincent and the Grenadines",110940.0,0,0,15,0
+,Saint Vincent and the Grenadines,12.9843,-61.2872,2022-02-14,8246,103,", Saint Vincent and the Grenadines",110940.0,102,1,18,0
+,Saint Vincent and the Grenadines,12.9843,-61.2872,2022-02-15,8248,103,", Saint Vincent and the Grenadines",110940.0,2,0,16,0
+,Saint Vincent and the Grenadines,12.9843,-61.2872,2022-02-16,8248,103,", Saint Vincent and the Grenadines",110940.0,0,0,14,0

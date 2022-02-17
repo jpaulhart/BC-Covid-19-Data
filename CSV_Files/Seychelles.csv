@@ -753,3 +753,6 @@ Province_State,Country_Region,Lat,Long,Date,Confirmed,Deaths,Combined_Key,Popula
 ,Seychelles,-4.6796,55.492,2022-02-11,38395,157,", Seychelles",98347.0,102,0,89,0
 ,Seychelles,-4.6796,55.492,2022-02-12,38395,157,", Seychelles",98347.0,0,0,89,0
 ,Seychelles,-4.6796,55.492,2022-02-13,38395,157,", Seychelles",98347.0,0,0,89,0
+,Seychelles,-4.6796,55.492,2022-02-14,38659,157,", Seychelles",98347.0,264,0,77,0
+,Seychelles,-4.6796,55.492,2022-02-15,38766,159,", Seychelles",98347.0,107,2,91,0
+,Seychelles,-4.6796,55.492,2022-02-16,38829,159,", Seychelles",98347.0,63,0,76,0
