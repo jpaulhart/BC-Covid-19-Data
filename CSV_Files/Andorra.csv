@@ -758,3 +758,4 @@ Province_State,Country_Region,Lat,Long,Date,Confirmed,Deaths,Combined_Key,Popula
 ,Andorra,42.5063,1.5218,2022-02-16,37452,150,", Andorra",77265.0,91,0,66,0
 ,Andorra,42.5063,1.5218,2022-02-17,37522,150,", Andorra",77265.0,70,0,64,0
 ,Andorra,42.5063,1.5218,2022-02-18,37589,150,", Andorra",77265.0,67,0,64,0
+,Andorra,42.5063,1.5218,2022-02-19,37589,150,", Andorra",77265.0,0,0,64,0
