@@ -761,3 +761,4 @@ Province_State,Country_Region,Lat,Long,Date,Confirmed,Deaths,Combined_Key,Popula
 ,Cambodia,11.55,104.9167,2022-02-19,125753,3015,", Cambodia",16718965.0,552,0,387,0
 ,Cambodia,11.55,104.9167,2022-02-20,126489,3017,", Cambodia",16718965.0,736,2,435,0
 ,Cambodia,11.55,104.9167,2022-02-21,126977,3020,", Cambodia",16718965.0,488,3,431,0
+,Cambodia,11.55,104.9167,2022-02-22,127575,3022,", Cambodia",16718965.0,598,2,490,1
