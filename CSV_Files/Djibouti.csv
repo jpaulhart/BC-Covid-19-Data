@@ -792,3 +792,4 @@ Province_State,Country_Region,Lat,Long,Date,Confirmed,Deaths,Combined_Key,Popula
 ,Djibouti,11.8251,42.5903,2022-03-22,15574,189,", Djibouti",988000.0,1,0,0,0
 ,Djibouti,11.8251,42.5903,2022-03-23,15578,189,", Djibouti",988000.0,4,0,0,0
 ,Djibouti,11.8251,42.5903,2022-03-24,15580,189,", Djibouti",988000.0,2,0,1,0
+,Djibouti,11.8251,42.5903,2022-03-25,15580,189,", Djibouti",988000.0,0,0,1,0
