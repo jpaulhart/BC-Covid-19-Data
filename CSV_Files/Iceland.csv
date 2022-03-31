@@ -797,3 +797,4 @@ Province_State,Country_Region,Lat,Long,Date,Confirmed,Deaths,Combined_Key,Popula
 ,Iceland,64.9631,-19.0208,2022-03-27,178385,97,", Iceland",341243.0,0,0,1082,0
 ,Iceland,64.9631,-19.0208,2022-03-28,179813,97,", Iceland",341243.0,1428,0,859,0
 ,Iceland,64.9631,-19.0208,2022-03-29,179813,97,", Iceland",341243.0,0,0,640,0
+,Iceland,64.9631,-19.0208,2022-03-30,180950,98,", Iceland",341243.0,1137,1,681,0
