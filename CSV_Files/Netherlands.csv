@@ -807,3 +807,4 @@ Province_State,Country_Region,Lat,Long,Date,Confirmed,Deaths,Combined_Key,Popula
 ,Netherlands,52.1326,5.2913,2022-04-06,8032250,22079,", Netherlands",17134872.0,13025,21,16327,13
 ,Netherlands,52.1326,5.2913,2022-04-07,8045101,22088,", Netherlands",17134872.0,12851,9,14529,11
 ,Netherlands,52.1326,5.2913,2022-04-08,8055974,22101,", Netherlands",17134872.0,10873,13,12977,12
+,Netherlands,52.1326,5.2913,2022-04-09,8055974,22101,", Netherlands",17134872.0,0,0,10558,10
