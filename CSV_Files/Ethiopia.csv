@@ -808,3 +808,4 @@ Province_State,Country_Region,Lat,Long,Date,Confirmed,Deaths,Combined_Key,Popula
 ,Ethiopia,9.145,40.4897,2022-04-07,469979,7508,", Ethiopia",114963588.0,63,0,31,1
 ,Ethiopia,9.145,40.4897,2022-04-08,470005,7508,", Ethiopia",114963588.0,26,0,31,1
 ,Ethiopia,9.145,40.4897,2022-04-09,470025,7509,", Ethiopia",114963588.0,20,1,31,0
+,Ethiopia,9.145,40.4897,2022-04-10,470050,7509,", Ethiopia",114963588.0,25,0,33,0
