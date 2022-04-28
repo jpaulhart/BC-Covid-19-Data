@@ -825,3 +825,4 @@ Province_State,Country_Region,Lat,Long,Date,Confirmed,Deaths,Combined_Key,Popula
 ,Solomon Islands,-9.6457,160.1562,2022-04-24,12437,139,", Solomon Islands",686884.0,0,0,0,0
 ,Solomon Islands,-9.6457,160.1562,2022-04-25,14182,140,", Solomon Islands",686884.0,1745,1,249,0
 ,Solomon Islands,-9.6457,160.1562,2022-04-26,14786,141,", Solomon Islands",686884.0,604,1,335,0
+,Solomon Islands,-9.6457,160.1562,2022-04-27,14786,141,", Solomon Islands",686884.0,0,0,335,0
