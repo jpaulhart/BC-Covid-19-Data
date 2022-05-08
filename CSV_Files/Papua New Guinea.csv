@@ -833,3 +833,6 @@ Province_State,Country_Region,Lat,Long,Date,Confirmed,Deaths,Combined_Key,Popula
 ,Papua New Guinea,-6.314993,143.95555,2022-05-02,43821,650,", Papua New Guinea",8947024.0,4,0,3,0
 ,Papua New Guinea,-6.314993,143.95555,2022-05-03,43821,650,", Papua New Guinea",8947024.0,0,0,3,0
 ,Papua New Guinea,-6.314993,143.95555,2022-05-04,43823,650,", Papua New Guinea",8947024.0,2,0,2,0
+,Papua New Guinea,-6.314993,143.95555,2022-05-05,43826,651,", Papua New Guinea",8947024.0,3,1,1,0
+,Papua New Guinea,-6.314993,143.95555,2022-05-06,43827,651,", Papua New Guinea",8947024.0,1,0,1,0
+,Papua New Guinea,-6.314993,143.95555,2022-05-07,43827,651,", Papua New Guinea",8947024.0,0,0,1,0
