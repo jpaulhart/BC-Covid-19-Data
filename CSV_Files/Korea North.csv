@@ -842,4 +842,4 @@ Province_State,Country_Region,Lat,Long,Date,Confirmed,Deaths,Combined_Key,Popula
 ,Korea North,40.3399,127.5101,2022-05-11,0,0,", Korea North",0.0,0,0,0,0
 ,Korea North,40.3399,127.5101,2022-05-12,0,0,", Korea North",0.0,0,0,0,0
 ,Korea North,40.3399,127.5101,2022-05-13,0,0,", Korea North",0.0,0,0,0,0
-,Korea North,40.3399,127.5101,2022-05-14,0,0,", Korea North",0.0,0,0,0,0
+,Korea North,40.3399,127.5101,2022-05-14,1,21,", Korea North",0.0,1,21,0,3
