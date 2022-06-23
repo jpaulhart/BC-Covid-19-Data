@@ -881,3 +881,4 @@ Province_State,Country_Region,Lat,Long,Date,Confirmed,Deaths,Combined_Key,Popula
 ,Venezuela,6.4238,-66.5897,2022-06-19,524911,5724,", Venezuela",28435940.0,88,0,88,0
 ,Venezuela,6.4238,-66.5897,2022-06-20,524978,5724,", Venezuela",28435940.0,67,0,93,0
 ,Venezuela,6.4238,-66.5897,2022-06-21,525105,5725,", Venezuela",28435940.0,127,1,112,0
+,Venezuela,6.4238,-66.5897,2022-06-22,525105,5725,", Venezuela",28435940.0,0,0,105,0
