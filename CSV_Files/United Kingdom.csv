@@ -891,3 +891,4 @@ Province_State,Country_Region,Lat,Long,Date,Confirmed,Deaths,Combined_Key,Popula
 ,United Kingdom,55.3781,-3.436,2022-06-29,22697437,180245,", United Kingdom",67886011.0,35895,117,19907,66
 ,United Kingdom,55.3781,-3.436,2022-06-30,22720345,180330,", United Kingdom",67886011.0,22908,85,20570,67
 ,United Kingdom,55.3781,-3.436,2022-07-01,22741065,180417,", United Kingdom",67886011.0,20720,87,21176,70
+,United Kingdom,55.3781,-3.436,2022-07-02,22741065,180417,", United Kingdom",67886011.0,0,0,21176,70
