@@ -891,6 +891,6 @@ Province_State,Country_Region,Lat,Long,Date,Confirmed,Deaths,Combined_Key,Popula
 ,Marshall Islands,7.1315,171.1845,2022-06-29,18,0,", Marshall Islands",59190.0,0,0,0,0
 ,Marshall Islands,7.1315,171.1845,2022-06-30,18,0,", Marshall Islands",59190.0,0,0,0,0
 ,Marshall Islands,7.1315,171.1845,2022-07-01,18,0,", Marshall Islands",59190.0,0,0,0,0
-,Marshall Islands,7.1315,171.1845,2022-07-02,18,0,", Marshall Islands",59190.0,0,0,0,0
-,Marshall Islands,7.1315,171.1845,2022-07-03,18,0,", Marshall Islands",59190.0,0,0,0,0
-,Marshall Islands,7.1315,171.1845,2022-07-04,18,0,", Marshall Islands",59190.0,0,0,0,0
+,Marshall Islands,7.1315,171.1845,2022-07-02,26,0,", Marshall Islands",59190.0,8,0,1,0
+,Marshall Islands,7.1315,171.1845,2022-07-03,26,0,", Marshall Islands",59190.0,0,0,1,0
+,Marshall Islands,7.1315,171.1845,2022-07-04,32,0,", Marshall Islands",59190.0,6,0,2,0
