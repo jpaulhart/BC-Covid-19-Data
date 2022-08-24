@@ -943,3 +943,4 @@ Province_State,Country_Region,Lat,Long,Date,Confirmed,Deaths,Combined_Key,Popula
 ,Singapore,1.2833,103.8333,2022-08-20,1814915,1578,", Singapore",5850342.0,2660,2,3409,3
 ,Singapore,1.2833,103.8333,2022-08-21,1816866,1580,", Singapore",5850342.0,1951,2,3256,3
 ,Singapore,1.2833,103.8333,2022-08-22,1818560,1584,", Singapore",5850342.0,1694,4,3498,3
+,Singapore,1.2833,103.8333,2022-08-23,1822187,1584,", Singapore",5850342.0,3627,0,2893,2
