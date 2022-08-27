@@ -946,3 +946,4 @@ Province_State,Country_Region,Lat,Long,Date,Confirmed,Deaths,Combined_Key,Popula
 ,Afghanistan,33.93911,67.709953,2022-08-23,191247,7768,", Afghanistan",38928346.0,207,1,252,1
 ,Afghanistan,33.93911,67.709953,2022-08-24,191585,7769,", Afghanistan",38928346.0,338,1,267,1
 ,Afghanistan,33.93911,67.709953,2022-08-25,191967,7771,", Afghanistan",38928346.0,382,2,279,1
+,Afghanistan,33.93911,67.709953,2022-08-26,191967,7771,", Afghanistan",38928346.0,0,0,244,1
