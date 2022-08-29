@@ -948,3 +948,4 @@ Province_State,Country_Region,Lat,Long,Date,Confirmed,Deaths,Combined_Key,Popula
 ,Kazakhstan,48.0196,66.9237,2022-08-25,1475615,19040,", Kazakhstan",18776707.0,739,1,691,1
 ,Kazakhstan,48.0196,66.9237,2022-08-26,1476288,19040,", Kazakhstan",18776707.0,673,0,650,1
 ,Kazakhstan,48.0196,66.9237,2022-08-27,1476926,19040,", Kazakhstan",18776707.0,638,0,612,1
+,Kazakhstan,48.0196,66.9237,2022-08-28,1476926,19040,", Kazakhstan",18776707.0,0,0,612,1
