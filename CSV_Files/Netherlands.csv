@@ -955,3 +955,4 @@ Province_State,Country_Region,Lat,Long,Date,Confirmed,Deaths,Combined_Key,Popula
 ,Netherlands,52.1326,5.2913,2022-09-01,8386189,22600,", Netherlands",17134872.0,0,0,921,1
 ,Netherlands,52.1326,5.2913,2022-09-02,7653265,15879,", Netherlands",17134872.0,-732924,-6721,-103946,-959
 ,Netherlands,52.1326,5.2913,2022-09-03,7653265,15879,", Netherlands",17134872.0,0,0,-103946,-959
+,Netherlands,52.1326,5.2913,2022-09-04,7653265,15879,", Netherlands",17134872.0,0,0,-103946,-959
