@@ -992,3 +992,4 @@ Province_State,Country_Region,Lat,Long,Date,Confirmed,Deaths,Combined_Key,Popula
 ,Albania,41.1533,20.1683,2022-10-08,332472,3589,", Albania",2877797.0,29,0,29,0
 ,Albania,41.1533,20.1683,2022-10-09,332494,3589,", Albania",2877797.0,22,0,29,0
 ,Albania,41.1533,20.1683,2022-10-10,332503,3589,", Albania",2877797.0,9,0,30,0
+,Albania,41.1533,20.1683,2022-10-11,332534,3590,", Albania",2877797.0,31,1,28,0
